@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.media.MediaView?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane id="bp2" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.MediaController">
+   <left>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <Label id="lab" fx:id="titreLabel" text="Titre">
+               <padding>
+                  <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+               </padding>
+               <font>
+                  <Font name="Bodoni MT" size="20.0" />
+               </font>
+            </Label>
+            <Label id="lab" fx:id="auteurLabel" text="Auteur">
+               <padding>
+                  <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+               </padding>
+               <font>
+                  <Font name="Bodoni MT" size="20.0" />
+               </font>
+            </Label>
+            <Label id="lab" fx:id="descriptionLabel" prefHeight="300.0" prefWidth="300.0" text="Description">
+               <padding>
+                  <Insets bottom="50.0" left="15.0" right="15.0" top="50.0" />
+               </padding>
+               <font>
+                  <Font name="Bodoni MT" size="20.0" />
+               </font>
+            </Label>
+         </children></VBox>
+   </left>
+   <bottom>
+      <Label id="lab" text="©CodingWeek 2K19-Les 4 fantastiques" BorderPane.alignment="CENTER" />
+   </bottom>
+   <center>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="TOP_CENTER">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <MediaView fx:id="mv" fitHeight="700.0" fitWidth="1000.0" />
+                  <Slider fx:id="vs" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onDragDetected="#getVolume" orientation="VERTICAL" prefHeight="500.0" prefWidth="30.0">
+                     <HBox.margin>
+                        <Insets top="100.0" />
+                     </HBox.margin>
+                  </Slider>
+               </children>
+            </HBox>
+            <ProgressBar fx:id="progb" onMouseClicked="#goToTime" prefHeight="25.0" prefWidth="500.0" progress="0.0" />
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView id="play" fitHeight="150.0" fitWidth="200.0" onMouseClicked="#getStop" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../ImButton/Stop.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView id="play" fitHeight="150.0" fitWidth="200.0" onMouseClicked="#getPlay" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../ImButton/Play.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView id="pause" fitHeight="150.0" fitWidth="200.0" onMouseClicked="#getPause" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../ImButton/Pause.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView id="dll" fitHeight="150.0" fitWidth="200.0" onMouseClicked="#ddl" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../ImButton/ddl.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" onMouseClicked="#abo" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../ImButton/Abo.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+   <top>
+      <Label id="lab" fx:id="theme" onMouseClicked="#changeTheme" text="Light" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="Bodoni MT" size="25.0" />
+         </font></Label>
+   </top>
+</BorderPane>

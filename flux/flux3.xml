@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <title>La Drôle d'Humeur de Marina Rollman</title>
+    <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman</link>
+    <description>Humour noir et nonchalance</description>
+    <language>fr</language>
+    <copyright>Radio France</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 03:14:56 +0100</lastBuildDate>
+    <generator>Radio France</generator>
+    <image>
+      <url>https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/849a3fbd-ccc2-4e1e-bc18-16b77bbd4e01/1400x1400_rf_omm_0000017957_ite.jpg</url>
+      <title>La Drôle d'Humeur de Marina Rollman</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman</link>
+    </image>
+    <itunes:author>France Inter</itunes:author>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2019/08/849a3fbd-ccc2-4e1e-bc18-16b77bbd4e01/1400x1400_rf_omm_0000017957_ite.jpg"/>
+    <itunes:owner>
+      <itunes:email>podcast@radiofrance.com</itunes:email>
+      <itunes:name>Radio France</itunes:name>
+    </itunes:owner>
+    <itunes:subtitle>La Drôle d'Humeur de Marina Rollman</itunes:subtitle>
+    <itunes:summary>Humour noir et nonchalance</itunes:summary>
+    <podcastRF:originStation>1</podcastRF:originStation>
+    <googleplay:block>yes</googleplay:block>
+    <item>
+      <title>Quel choix de cadeau pour Noël ?</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-09-decembre-2019</link>
+      <description>durée : 00:04:25 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Comment concilier l'esprit de Noël et la protection de la planète ? Marina pose la question !</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1647344841761234944/18348-09.12.2019-ITEMA_22224790-0.mp3" length="4277607" type="audio/mpeg"/>
+      <guid isPermalink="false">72153be5-9e21-47f1-b209-c0bf12306d0a</guid>
+      <pubDate>Mon, 09 Dec 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0343</podcastRF:magnetothequeID>
+      <itunes:title>Quel choix de cadeau pour Noël ?</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Quel,choix,de,cadeau,pour,Noël,?</itunes:keywords>
+      <itunes:subtitle>Quel choix de cadeau pour Noël ?</itunes:subtitle>
+      <itunes:summary>durée : 00:04:25 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Comment concilier l'esprit de Noël et la protection de la planète ? Marina pose la question !</itunes:summary>
+      <itunes:duration>00:04:25</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>La drôle d'humeur de Fanny Ruwet du lundi 18 novembre 2019</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-fanny-ruwet/la-drole-d-humeur-de-fanny-ruwet-18-novembre-2019</link>
+      <description>durée : 00:04:00 - La drôle d'humeur de Fanny Ruwet - par : Marina Rollman</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1639517799711776768/18348-18.11.2019-ITEMA_22206505-0.mp3" length="3867454" type="audio/mpeg"/>
+      <guid isPermalink="false">1bf8c3a8-d2d0-4070-b38d-9fa2ec398b0e</guid>
+      <pubDate>Mon, 18 Nov 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0322</podcastRF:magnetothequeID>
+      <itunes:title>La drôle d'humeur de Fanny Ruwet du lundi 18 novembre 2019</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>La,drôle,d'humeur,de,Fanny,Ruwet,du,lundi,18,novembre,2019</itunes:keywords>
+      <itunes:subtitle>La drôle d'humeur de Fanny Ruwet du lundi 18 novembre 2019</itunes:subtitle>
+      <itunes:summary>durée : 00:04:00 - La drôle d'humeur de Fanny Ruwet - par : Marina Rollman</itunes:summary>
+      <itunes:duration>00:04:00</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Vie de bureau</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-14-novembre-2019</link>
+      <description>durée : 00:04:09 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina fait ce matin un constat : au boulot on est tous débordés !</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1638032362614824960/18348-14.11.2019-ITEMA_22202951-0.mp3" length="4017947" type="audio/mpeg"/>
+      <guid isPermalink="false">c8c9f764-9f8c-40d1-863b-ddf25cdad64f</guid>
+      <pubDate>Thu, 14 Nov 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0318</podcastRF:magnetothequeID>
+      <itunes:title>Vie de bureau</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Vie,de,bureau</itunes:keywords>
+      <itunes:subtitle>Vie de bureau</itunes:subtitle>
+      <itunes:summary>durée : 00:04:09 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina fait ce matin un constat : au boulot on est tous débordés !</itunes:summary>
+      <itunes:duration>00:04:09</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Un peu trop d’amour sur internet </title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-12-novembre-2019</link>
+      <description>durée : 00:04:57 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina réfléchit ce matin à tout cet amour que l’on transmet sur les réseaux sociaux</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1637286469183741952/18348-12.11.2019-ITEMA_22200861-0.mp3" length="4788757" type="audio/mpeg"/>
+      <guid isPermalink="false">fef4879a-99b9-4449-a057-2d9bb4f879e5</guid>
+      <pubDate>Tue, 12 Nov 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0316</podcastRF:magnetothequeID>
+      <itunes:title>Un peu trop d’amour sur internet </itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Un,peu,trop,d’amour,sur,internet,</itunes:keywords>
+      <itunes:subtitle>Un peu trop d’amour sur internet </itunes:subtitle>
+      <itunes:summary>durée : 00:04:57 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina réfléchit ce matin à tout cet amour que l’on transmet sur les réseaux sociaux</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Se divertir plus vite en s’empiffrant de contenus</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-05-novembre-2019</link>
+      <description>durée : 00:04:16 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina est stupéfaite par la nouvelle fonctionnalité de Netflix : pouvoir regarder tous les contenus du catalogue en accéléré...</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1634692231300390912/18348-05.11.2019-ITEMA_22194562-0.mp3" length="4135607" type="audio/mpeg"/>
+      <guid isPermalink="false">1359e19d-acbc-40e3-8753-c65ea6fe2bec</guid>
+      <pubDate>Tue, 05 Nov 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0309</podcastRF:magnetothequeID>
+      <itunes:title>Se divertir plus vite en s’empiffrant de contenus</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Se,divertir,plus,vite,en,s’empiffrant,de,contenus</itunes:keywords>
+      <itunes:subtitle>Se divertir plus vite en s’empiffrant de contenus</itunes:subtitle>
+      <itunes:summary>durée : 00:04:16 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina est stupéfaite par la nouvelle fonctionnalité de Netflix : pouvoir regarder tous les contenus du catalogue en accéléré...</itunes:summary>
+      <itunes:duration>00:04:16</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les mérites du mariage</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-04-novembre-2019</link>
+      <description>durée : 00:03:27 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin, Marina nous parle de l'engagement et plus particulièrement du mariage</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1634324944361889792/18348-04.11.2019-ITEMA_22193479-0.mp3" length="3346346" type="audio/mpeg"/>
+      <guid isPermalink="false">947629d7-7566-47ae-ba24-5ae704a8b7cc</guid>
+      <pubDate>Mon, 04 Nov 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0308</podcastRF:magnetothequeID>
+      <itunes:title>Les mérites du mariage</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,mérites,du,mariage</itunes:keywords>
+      <itunes:subtitle>Les mérites du mariage</itunes:subtitle>
+      <itunes:summary>durée : 00:03:27 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin, Marina nous parle de l'engagement et plus particulièrement du mariage</itunes:summary>
+      <itunes:duration>00:03:27</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Les pubs de luxe... et leurs dessous</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-31-octobre-2019</link>
+      <description>durée : 00:03:46 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Le 27 août 2019, Marina Rollman faisait part aux auditrices et aux auditeurs de quelques réflexions nées de l'observation des pubs pour les produits de luxe.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1632815550700724224/18348-31.10.2019-ITEMA_22190514-0.mp3" length="3645750" type="audio/mpeg"/>
+      <guid isPermalink="false">8200a7bb-fffe-4e84-9d22-4ecabfe61c55</guid>
+      <pubDate>Thu, 31 Oct 2019 11:33:00 +0100</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0304</podcastRF:magnetothequeID>
+      <itunes:title>Les pubs de luxe... et leurs dessous</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Les,pubs,de,luxe...,et,leurs,dessous</itunes:keywords>
+      <itunes:subtitle>Les pubs de luxe... et leurs dessous</itunes:subtitle>
+      <itunes:summary>durée : 00:03:46 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Le 27 août 2019, Marina Rollman faisait part aux auditrices et aux auditeurs de quelques réflexions nées de l'observation des pubs pour les produits de luxe.</itunes:summary>
+      <itunes:duration>00:03:46</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Choire ou boisir</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-18-octobre-2019</link>
+      <description>durée : 00:04:09 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina s’interroge ce matin, sur notre rapport à nous, les humains, avec l’alcool.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1628080345612034048/18348-18.10.2019-ITEMA_22179934-0.mp3" length="4022925" type="audio/mpeg"/>
+      <guid isPermalink="true">http://media.radiofrance-podcast.net/podcast09/18348-18.10.2019-ITEMA_22179934-0.mp3</guid>
+      <pubDate>Fri, 18 Oct 2019 12:24:00 +0200</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0291</podcastRF:magnetothequeID>
+      <itunes:title>Choire ou boisir</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Choire,ou,boisir</itunes:keywords>
+      <itunes:subtitle>Choire ou boisir</itunes:subtitle>
+      <itunes:summary>durée : 00:04:09 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina s’interroge ce matin, sur notre rapport à nous, les humains, avec l’alcool.</itunes:summary>
+      <itunes:duration>00:04:09</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Nuit blanche and co</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-07-octobre-2019</link>
+      <description>durée : 00:04:38 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin, Marina Rollman raconte ses tiraillements de bobo gauchiste face à la culture...</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1623914729929973760/18348-07.10.2019-ITEMA_22168994-0.mp3" length="4488545" type="audio/mpeg"/>
+      <guid isPermalink="true">http://media.radiofrance-podcast.net/podcast09/18348-07.10.2019-ITEMA_22168994-0.mp3</guid>
+      <pubDate>Mon, 07 Oct 2019 11:33:00 +0200</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0280</podcastRF:magnetothequeID>
+      <itunes:title>Nuit blanche and co</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Nuit,blanche,and,co</itunes:keywords>
+      <itunes:subtitle>Nuit blanche and co</itunes:subtitle>
+      <itunes:summary>durée : 00:04:38 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin, Marina Rollman raconte ses tiraillements de bobo gauchiste face à la culture...</itunes:summary>
+      <itunes:duration>00:04:38</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Quand l’incompréhension est partout</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-03-octobre-2019</link>
+      <description>durée : 00:04:17 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin Marina s’étonne de certaines choses inimaginables et qui pourtant existent...</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1622427390976204800/18348-03.10.2019-ITEMA_22165888-0.mp3" length="4152135" type="audio/mpeg"/>
+      <guid isPermalink="true">http://media.radiofrance-podcast.net/podcast09/18348-03.10.2019-ITEMA_22165888-0.mp3</guid>
+      <pubDate>Thu, 03 Oct 2019 11:33:00 +0200</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0276</podcastRF:magnetothequeID>
+      <itunes:title>Quand l’incompréhension est partout</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Quand,l’incompréhension,est,partout</itunes:keywords>
+      <itunes:subtitle>Quand l’incompréhension est partout</itunes:subtitle>
+      <itunes:summary>durée : 00:04:17 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin Marina s’étonne de certaines choses inimaginables et qui pourtant existent...</itunes:summary>
+      <itunes:duration>00:04:17</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Une sale bobo oui, une parisienne, pas vraiment !</title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-23-septembre-2019</link>
+      <description>durée : 00:03:05 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin, Marina affirme qu’elle est bien une bobo mais qui n’a pas encore totalement adopté la ville de Paris.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1618721475433340928/18348-23.09.2019-ITEMA_22156459-0.mp3" length="2996084" type="audio/mpeg"/>
+      <guid isPermalink="true">http://media.radiofrance-podcast.net/podcast09/18348-23.09.2019-ITEMA_22156459-0.mp3</guid>
+      <pubDate>Mon, 23 Sep 2019 11:33:00 +0200</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0266</podcastRF:magnetothequeID>
+      <itunes:title>Une sale bobo oui, une parisienne, pas vraiment !</itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Une,sale,bobo,oui,,une,parisienne,,pas,vraiment,!</itunes:keywords>
+      <itunes:subtitle>Une sale bobo oui, une parisienne, pas vraiment !</itunes:subtitle>
+      <itunes:summary>durée : 00:03:05 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Ce matin, Marina affirme qu’elle est bien une bobo mais qui n’a pas encore totalement adopté la ville de Paris.</itunes:summary>
+      <itunes:duration>00:03:05</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+    <item>
+      <title>Liste des choses utiles à apporter à une fête </title>
+      <link>https://www.franceinter.fr/emissions/la-drole-d-humeur-de-marina-rollman/la-drole-d-humeur-de-marina-rollman-16-septembre-2019</link>
+      <description>durée : 00:02:57 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina aime faire la fête, elle aime moins les lendemains difficiles... elle a donc eu l'idée de donner une liste des choses à apporter bien vivre la fête et ses conséquences</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Comedy</category>
+      <enclosure url="http://rf.proxycast.org/1616119957672697856/18348-16.09.2019-ITEMA_22149979-0.mp3" length="2864599" type="audio/mpeg"/>
+      <guid isPermalink="true">http://media.radiofrance-podcast.net/podcast09/18348-16.09.2019-ITEMA_22149979-0.mp3</guid>
+      <pubDate>Mon, 16 Sep 2019 11:33:00 +0200</pubDate>
+      <podcastRF:businessReference>29766</podcastRF:businessReference>
+      <podcastRF:magnetothequeID>2019F29766S0259</podcastRF:magnetothequeID>
+      <itunes:title>Liste des choses utiles à apporter à une fête </itunes:title>
+      <itunes:author>Marina Rollman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Liste,des,choses,utiles,à,apporter,à,une,fête,</itunes:keywords>
+      <itunes:subtitle>Liste des choses utiles à apporter à une fête </itunes:subtitle>
+      <itunes:summary>durée : 00:02:57 - La drôle d’humeur de Marina Rollman - par : Marina Rollman - Marina aime faire la fête, elle aime moins les lendemains difficiles... elle a donc eu l'idée de donner une liste des choses à apporter bien vivre la fête et ses conséquences</itunes:summary>
+      <itunes:duration>00:02:57</itunes:duration>
+      <googleplay:block>yes</googleplay:block>
+    </item>
+  </channel>
+</rss>

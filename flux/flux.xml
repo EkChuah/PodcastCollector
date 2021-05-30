@@ -1,0 +1,840 @@
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+    <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA=IwAR2yEC7khLNaRb7ZkQWdbhtXheNRjTRMGdlH78CfBlSa3MZOP2qfesRq78Y"/>
+    <id>yt:channel:UCHnyfMqiRRG1u-2MsSQLbXA</id>
+    <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+    <title>Veritasium</title>
+    <link rel="alternate" href="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+    <author>
+        <name>Veritasium</name>
+        <uri>
+            https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+        </uri>
+    </author>
+    <published>2010-07-21T07:18:02+00:00</published>
+    <entry>
+        <id>yt:video:QRt7LjqJ45k</id>
+        <yt:videoId>QRt7LjqJ45k</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>How to Slow Aging (and even reverse it)</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=QRt7LjqJ45k"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-12-14T15:00:05+00:00</published>
+        <updated>2019-12-15T07:30:19+00:00</updated>
+        <media:group>
+            <media:title>How to Slow Aging (and even reverse it)</media:title>
+            <media:content url="https://www.youtube.com/v/QRt7LjqJ45k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/QRt7LjqJ45k/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Scientists like Prof Sinclair have evidence of speeding up, slowing, and even reversing aging. Thanks to LastPass for sponsoring this video. Click here to start using LastPass: https://ve42.co/VeLP What causes aging? According to Professor David Sinclair, it is a loss of information in our epigenome, the system of proteins like histones and chemical markers like methylation that turn on and off genes. Epigenetics allow different cell types to perform their specific functions - they are what differentiate a brain cell from a skin cell. Our DNA is constantly getting broken, by cosmic rays, UV radiation, free radicals, x-rays and regular cell division etc. When our cells repair that damage, the epigenome is not perfectly reset. And hence over time, noise accumulates in our epigenome. Our cells no longer perform their functions well. To counter this decline, we can activate the body's own defenses against aging by stressing the body. Eat less, eat less protein, engage in intense exercise, experience uncomfortable cold. When the body senses existential threats it triggers longevity genes, which attempt to maintain the body to ensure its survival until good times return. This may be the evolutionary legacy of early bacteria, which established these two modes of living (repair and protect vs grow and reproduce). Scientists are uncovering ways to mimic stresses on the body without the discomfort of fasting. Molecules like NMN also trigger sirtuins to monitor and repair the epigenome. This may slow aging. Reversing aging requires an epigenetic reset, which may be possible using Yamanaka factors. These four factors can revert an adult cell into a pluripotent stem cell. Prof. Sinclair used three of the four factors to reverse aging in the retinal cells of old mice. He found they could see again after the treatment. Special thanks to: Professor David Sinclair, check out his book "Lifespan: Why We Age and Why We Don't Have To" Assistant Professor David Gold Noemie Sierra (for polyp images) Genepool Productions for telomere animations from Immortal: https://ve42.co/immortal Epigenetics animations (DNA, histones, methylation etc) courtesy of: http://wehi.tv Animation: Etsuko Uno Art and Technical Direction: Drew Berry Sound Design: Francois Tetaz and Emma Bortignon Scientific Consultation: Marnie Blewitt Courtesy of Walter and Eliza Hall Institute of Medical Research Filming, editing and animation by Jonny Hyman and Derek Muller Music from https://epidemicsound.com "Clearer Views" "Innovations" "A Sound Foundation" "Seaweed" Additional music by Kevin MacLeod from https://incompetech.com "Marty Gots a Plan"
+            </media:description>
+            <media:community>
+                <media:starRating count="65349" average="4.96" min="1" max="5"/>
+                <media:statistics views="992607"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:fDek6cYijxI</id>
+        <yt:videoId>fDek6cYijxI</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>The Science Behind the Butterfly Effect</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=fDek6cYijxI"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-12-06T19:06:59+00:00</published>
+        <updated>2019-12-16T03:22:28+00:00</updated>
+        <media:group>
+            <media:title>The Science Behind the Butterfly Effect</media:title>
+            <media:content url="https://www.youtube.com/v/fDek6cYijxI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/fDek6cYijxI/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Chaos theory means deterministic systems can be unpredictable. Thanks to LastPass for sponsoring this video. Click here to start using LastPass: https://ve42.co/VeLP Animations by Prof. Robert Ghrist: https://ve42.co/Ghrist Want to know more about chaos theory and non-linear dynamical systems? Check out: https://ve42.co/chaos-math Butterfly footage courtesy of Phil Torres and The Jungle Diaries: https://ve42.co/monarch Solar system, 3-body and printout animations by Jonny Hyman Some animations made with Universe Sandbox: https://universesandbox.com/ Special thanks to Prof. Mason Porter at UCLA who I interviewed for this video. I have long wanted to make a video about chaos, ever since reading James Gleick's fantastic book, Chaos. I hope this video gives an idea of phase space - a picture of dynamical systems in which each point completely represents the state of the system. For a pendulum, phase space is only 2-dimensional and you can get orbits (in the case of an undamped pendulum) or an inward spiral (in the case of a pendulum with friction). For the Lorenz equations we need three dimensions to show the phase space. The attractor you find for these equations is said to be strange and chaotic because there is no loop, only infinite curves that never intersect. This explains why the motion is so unpredictable - two different initial conditions that are very close together can end up arbitrarily far apart. Music from https://epidemicsound.com "The Longest Rest" "A Sound Foundation" "Seaweed"
+            </media:description>
+            <media:community>
+                <media:starRating count="65573" average="4.96" min="1" max="5"/>
+                <media:statistics views="1127040"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:K-Fc08X56R0</id>
+        <yt:videoId>K-Fc08X56R0</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>3 Perplexing Physics Problems</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=K-Fc08X56R0"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-11-20T20:54:16+00:00</published>
+        <updated>2019-11-27T18:02:55+00:00</updated>
+        <media:group>
+            <media:title>3 Perplexing Physics Problems</media:title>
+            <media:content url="https://www.youtube.com/v/K-Fc08X56R0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/K-Fc08X56R0/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Why does shaken soda explode? Does ice melt first in fresh or salt water? Thank you Squarespace for sponsoring this video. Go to https://squarespace.com to save 10% off your first purchase of a website or domain using code: VERITASIUM This video features experiments that have been shown to me by science teachers over the years. Does ice melt fast in salt water or fresh water was an experiment introduced to me at the Utah Science Teachers' conference. The ring of metal over a chain demo came from a teachers event in Florida. The idea shaking a carbonated drink increases pressure came from an email. Special thanks to Petr Lebedev for building the pressure gauge. Links to literature are below: Victims of the pop bottle, by Ted Willhoft. New Scientist, 21 August 1986 p.28 Carbonation speculation The Physics Teacher 30, 173 (1992); https://doi.org/10.1119/1.2343501 Agitation solution The Physics Teacher 30, 325 (1992); https://doi.org/10.1119/1.2343556 Filmed by Cristian Carretero, Jordan Schnabel, Jonny Hyman, and Raquel Nuno Music from https://epidemicsound.com "Seaweed" "Quietly Tense" "Mind Shift" "Observations"
+            </media:description>
+            <media:community>
+                <media:starRating count="118953" average="4.93" min="1" max="5"/>
+                <media:statistics views="2406720"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:-PWMQR59M68</id>
+        <yt:videoId>-PWMQR59M68</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Why Trees Are Out to Get You</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=-PWMQR59M68"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-10-25T19:00:00+00:00</published>
+        <updated>2019-10-28T00:50:05+00:00</updated>
+        <media:group>
+            <media:title>Why Trees Are Out to Get You</media:title>
+            <media:content url="https://www.youtube.com/v/-PWMQR59M68?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/-PWMQR59M68/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Want to help plant 20M trees by 2020? Go to https://teamtrees.org #teamtrees Huge thanks to all the YouTubers who organized this. My apologies for the repost. These videos are from 2012 so my interest in trees goes back a long ways. I think these videos discuss two of the most interesting and amazing facts about our leafy friends: they are made mostly of CO2 (which comes from us breathing out amongst other sources) and they can transport water up a tube higher than any we can currently manufacture. So trees are out to get you. But we do much worse to them so we owe it to them to plant some more. 20 mil is a good start.
+            </media:description>
+            <media:community>
+                <media:starRating count="69008" average="4.95" min="1" max="5"/>
+                <media:statistics views="1004507"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:ThwuT3_AG6w</id>
+        <yt:videoId>ThwuT3_AG6w</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Engineering with Origami</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=ThwuT3_AG6w"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-10-04T21:18:10+00:00</published>
+        <updated>2019-10-07T07:10:10+00:00</updated>
+        <media:group>
+            <media:title>Engineering with Origami</media:title>
+            <media:content url="https://www.youtube.com/v/ThwuT3_AG6w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/ThwuT3_AG6w/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Origami is inspiring a plethora of new engineering designs. Try yourself: https://ve42.co/Origami Thanks Audible! Start listening with a 30-day trial and your first audiobook, plus two Audible Originals free when you go to https://audible.com/veritasium or text veritasium to 500500 Huge thanks to: Dr. Robert Lang https://langorigami.com Prof. Larry Howell https://www.compliantmechanisms.byu.edu/ On first glance it's surprising that origami -- a centuries old art of folding paper to achieve particular aesthetics -- is applicable to engineering. But upon closer consideration there are a lot of reasons methods developed for paper folding are also applicable to engineering: origami allows you to take a flat sheet of material and convert it to almost any shape only by folding. Plus for large flat structures, origami provides a way of shrinking dimensions while ensuring simply deployment - this is particularly useful for solar arrays in space applications. Furthermore, motions designed to take advantage of the flexibility of paper can also be used to form compliant mechanisms for engineering like the kaleidocycle. Since the principles of origami are scalable, mechanisms can also be dramatically miniaturized. Some of the work shown is based upon work supported by the National Science Foundation and the Air Force Office of Scientific Research under Grant No. EFRI-ODISSEI-1240417. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. Special thanks to Patreon supporters: Alfred Wallace, Arjun Chakroborty, Bryan Baker, Chris Vargas, Chuck Lauer Vose, DALE HORNE, Donal Botkin, halyoav, James Knight, Jasper Xin, Joar Wandborg, Kevin Beavers, kkm, Leah Howard, Lyvann Ferrusca, Michael Krugman, Noel Braganza, Pindex, Ron Neal, Sam Lutfi, Stan Presolski, Tige Thorman Edited by Jonny Hyman, Isaac Frame, and Derek Muller Music by Jonny Hyman
+            </media:description>
+            <media:community>
+                <media:starRating count="86184" average="4.97" min="1" max="5"/>
+                <media:statistics views="2622840"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:1VPfZ_XzisU</id>
+        <yt:videoId>1VPfZ_XzisU</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>The Bizarre Behavior of Rotating Bodies, Explained</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=1VPfZ_XzisU"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-09-19T15:50:15+00:00</published>
+        <updated>2019-12-13T17:10:48+00:00</updated>
+        <media:group>
+            <media:title>The Bizarre Behavior of Rotating Bodies, Explained</media:title>
+            <media:content url="https://www.youtube.com/v/1VPfZ_XzisU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/1VPfZ_XzisU/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Spinning objects have strange instabilities known as The Dzhanibekov Effect or Tennis Racket Theorem - this video offers an intuitive explanation. Part of this video was sponsored by LastPass, click here to find out more: https://ve42.co/LP References: Prof. Terry Tao's Math Overflow Explanation: https://ve42.co/Tao The Twisting Tennis Racket Ashbaugh, M.S., Chicone, C.C. and Cushman, R.H. J Dyn Diff Equat (1991) 3: 67. https://doi.org/10.1007/BF01049489 Janibekov’s effect and the laws of mechanics Petrov, A.G. and Volodin, S.E. Dokl. Phys. (2013) 58: 349. https://doi.org/10.1134/S1028335813080041 Tumbling Asteroids Prave et al. https://doi.org/10.1016/j.icarus.2004.07.021 The Exact Computation of the Free Rigid Body Motion and Its Use in Splitting Methods SIAM J. Sci. Comput., 30(4), 2084–2112 E. Celledoni, F. Fassò, N. Säfström, and A. Zanna https://doi.org/10.1137/070704393 Animations by Iván Tello and Isaac Frame Special thanks to people who discussed this video with me: Astronaut Don Pettit Henry Reich of MinutePhysics Grant Sanderson of 3blue1brown Vert Dider (Russian YouTube channel) Below is a further discussion by Henry Reich that I think helps summarize why axes 1 and 3 are generally stable while axis 2 is not: In general, you might imagine that because the object can rotate in a bunch of different directions, the components of energy and momentum could be free to change while keeping the total momentum constant. However, in the case of axis 1, the kinetic energy is the highest possible for a given angular momentum, and in the case of axis 3, the kinetic energy is the lowest possible for a given angular momentum (which can be easily shown from conservation of energy and momentum equations, and is also fairly intuitive from the fact that kinetic energy is proportional to velocity squared, while momentum is proportional to velocity - so in the case of axis 1, the smaller masses will have to be spinning faster for a given momentum, and will thus have more energy, and vice versa for axis 3 where all the masses are spinning: the energy will be lowest). In fact, this is a strict inequality - if the energy is highest possible, there are no other possible combinations of momenta other than L2=L3=0, and vice versa for if the energy is the lowest possible. Because of this, in the case of axis 1 the energy is so high that there simply aren't any other possible combinations of angular momentum components L1, L2 and L3 - the object would have to lose energy in order to spin differently. And in the case of axis 3, the energy is so low that there likewise is no way for the object to be rotating other than purely around axis 3 - it would have to gain energy. However, there's no such constraint for axis 2, since the energy is somewhere in between the min and max possible. This, together with the centrifugal effects, means that the components of momentum DO change.
+            </media:description>
+            <media:community>
+                <media:starRating count="152304" average="4.94" min="1" max="5"/>
+                <media:statistics views="4019224"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:pe83T9hISoY</id>
+        <yt:videoId>pe83T9hISoY</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Does Planet 9 Exist?</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=pe83T9hISoY"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-09-13T14:07:46+00:00</published>
+        <updated>2019-09-30T10:59:37+00:00</updated>
+        <media:group>
+            <media:title>Does Planet 9 Exist?</media:title>
+            <media:content url="https://www.youtube.com/v/pe83T9hISoY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/pe83T9hISoY/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                A planet has been predicted to orbit the sun with a period of 10,000 years, a mass 5x that of Earth on a highly elliptical and inclined orbit. What evidence supports the existence of such a strange object at the edge of our solar system? Huge thanks to: Prof. Konstantin Batygin, Caltech Prof. David Jewitt, UCLA I had heard about Planet 9 for a long time but I wondered what sort of evidence could support the bold claim: a planet at the very limits of our ability to detect one, so far out that its period is over 60 times that of Neptune. The planet 9 hypothesis helps explain clustering of orbits of distant Kuiper belt objects. It also explains how some of these objects have highly inclined orbits - up to 90 degrees relative to the plane of the solar system. Some are orbiting in reverse. Plus their orbits are removed from the orbit of Neptune, the logical option for a body that could have ejected them out so far. The fact that the perihelion is so far out suggests another source of gravity was essential for their peculiar orbits. Special Thanks to Patreon Supporters: Alfred Wallace, Arjun Chakroborty, Bryan Baker, Chris Vargas, Chuck Lauer Vose, DALE HORNE, Donal Botkin, Eric Velazquez, halyoav, James Knight, Jasper Xin, Joar Wandborg, Kevin Beavers, kkm, Leah Howard, Lyvann Ferrusca, Michael Krugman, Mohammed Al Sahaf, Noel Braganza, Pindex, Ron Neal, Sam Lutfi, Stan Presolski, Tige Thorman Music from http://epidemicsound.com "Observations - From Now On" "Magnified XY"
+            </media:description>
+            <media:community>
+                <media:starRating count="75009" average="4.90" min="1" max="5"/>
+                <media:statistics views="2654776"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:qnOoDE9rj6w</id>
+        <yt:videoId>qnOoDE9rj6w</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Flamethrower vs Aerogel</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=qnOoDE9rj6w"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-08-31T15:00:17+00:00</published>
+        <updated>2019-09-08T16:32:13+00:00</updated>
+        <media:group>
+            <media:title>Flamethrower vs Aerogel</media:title>
+            <media:content url="https://www.youtube.com/v/qnOoDE9rj6w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/qnOoDE9rj6w/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                We put aerogel to the test vs 'not-a-flamethrower', a huge 2000°C flame to a large fiberglass blanket infused with silica aerogel - formerly the lightest solid (that title is now held by graphene aerogel). Special thanks to: Aerogel Technologies: https://ve42.co/aerogeltech Aspen Aerogels: https://ve42.co/aspen Ben: @BenScho999999 Dr. Stephen Steiner and the Aerogel Technologies team The footage of aerogel materials in cold environments was provided courtesy of Aspen Aerogels. Their product, cryogel, was shown to be flexible in liquid nitrogen while preventing cold burns to the hand. They are the manufacturer of the blanket used in the main portion of this video. This is the finale of my three-part series on aerogel. I'll put links to the other parts below: World's Lightest Solid: https://youtu.be/AeJ9q45PfD0 I Waterproofed Myself With Aerogel: https://youtu.be/GcdB5bFwio4 Huge thanks to Patreon supporters: Alfred Wallace, Arjun Chakroborty, Bryan Baker, Chris Vargas, Chuck Lauer Vose, Dale Horne, Donal Botkin, Eric Velazquez, halyoav, James Knight, Jasper Xin, Joar Wandborg, Kevin Beavers, kkm, Leah Howard, Lyvann Ferrusca, Michael Krugman, Mohammed Al Sahaf, Noel Braganza, Philipp Volgger, Pindex, Ron Neal, Sam Lutfi, Stan Presolski, Tige Thorman This is an educational video demonstrating scientific experiments performed by professionals. It should not be attempted by viewers. Music from Epidemic Sound: http://epidemicsound.com "Running Against the Clock" "Dangerous Forests"
+            </media:description>
+            <media:community>
+                <media:starRating count="45156" average="4.84" min="1" max="5"/>
+                <media:statistics views="972519"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:dCXkaQa53QQ</id>
+        <yt:videoId>dCXkaQa53QQ</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Making Liquid Nitrogen From Scratch!</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=dCXkaQa53QQ"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-08-16T17:06:32+00:00</published>
+        <updated>2019-08-27T16:09:51+00:00</updated>
+        <media:group>
+            <media:title>Making Liquid Nitrogen From Scratch!</media:title>
+            <media:content url="https://www.youtube.com/v/dCXkaQa53QQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i1.ytimg.com/vi/dCXkaQa53QQ/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                I used a nitrogen membrane and Stirling cryocooler to liquefy nitrogen out of the air. For this video I partnered with Starbucks to celebrate their Nitro Cold Brew. Order one here: https://starbucks.app.link/derekmuller Making liquid nitrogen is hard - in fact up until 150 years ago scientists doubted whether it was even possible to liquefy nitrogen. In 1823, At the royal institution in London, Michael Faraday first produced liquid chlorine, kind of accidentally by putting it under high pressure. He similarly liquefied ammonia. Borrowing a mixture from Thilorier in France, a combination of dry ice, snow and ether, he reached a temperature of -110C. By 1845 he used this mixture plus a hand pump to pressurize gases to liquefy all the known gases except six, which included oxygen and nitrogen. These became known as the “permanent” gases. A French Physicist Aimé compressed oxygen and nitrogen in tanks and then lowered them into the ocean over 1.6km deep, where the pressure got up to 200 atmospheres. Still the gases didn’t liquefy. Only at the end of 1877 were the first droplets of liquid oxygen and liquid nitrogen produced, by Cailletet in France. He first tried oxygen by compressing it up to 300 atmospheres, cooled to -30C, but that wasn't even enough to liquefy oxygen. But when he suddenly released the pressure, the expanding gas cooled, he estimated to -200C and he saw a mist and then droplets slide down the walls of his vessel. It's amazing how far we've come in that now I can purchase a helium-based cryocooler. It compresses and expands the gas to absorb heat from the tip of the cold finger and eject it into the surroundings at ambient temperature.
+            </media:description>
+            <media:community>
+                <media:starRating count="61015" average="4.81" min="1" max="5"/>
+                <media:statistics views="5624922"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:GhsZUZmJvaM</id>
+        <yt:videoId>GhsZUZmJvaM</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>First Flight on Another Planet!</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=GhsZUZmJvaM"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-08-10T16:12:17+00:00</published>
+        <updated>2019-08-13T10:34:51+00:00</updated>
+        <media:group>
+            <media:title>First Flight on Another Planet!</media:title>
+            <media:content url="https://www.youtube.com/v/GhsZUZmJvaM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/GhsZUZmJvaM/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                The Mars Helicopter aims to make the first powered flight on another planet when it takes off on Mars as part of the Mars 2020 mission. I learned a lot getting to visit the drone right before it was mounted on the rover. How do you fly in 1% of Earth's atmosphere: Have large rotors (they are 1.2m in diameter) and spin them very fast, around 2500 RPM (5x the speed of a helicopter on Earth). Plus the aircraft has to be light: The Mars helicopter weighs in at 1.8kg or around the same as a laptop. Every piece had to be stripped down for weight. Instead of using aerogel for insulation, the craft makes use of CO2 gaps between components. Even aerogel was too heavy! One of the major challenges is surviving the Martian night: Temperatures plunge to -80C to -100C so two thirds of the craft's power is actually used to keep its electronics warm. Only one third is used for flying. The estimated flight time is 90 seconds. The craft can't be driven remotely, it will have to fly autonomously, using its own sensor suite to determine how to fly. The round trip 20 minute delay with Earth means steering the craft from mission control would be impossible. Huge Thanks to Patreon Supporters: Philipp Volgger, Chris Vargas, Ron Neal, Alfred Wallace, Colin Bellmore, Michael Krugman, James Knight, Donal Botkin, Sam Lutfi, Mohammed Al Sahaf, Kevin Beavers, Chuck Lauer Vose, Bryan Baker, James Wong, kkm, Manuel Zürcher, Tige Thorman, Jasper Xin, Leah Howard, Daniel Milum, Mathias Göransson, Stan Presolski, Lyvann Ferrusca, Arjun Chakroborty, June Kang, Listen Money Matters, Pindex, Joar Wandborg, DALE HORNE, Parker Linn, Roberto Rezende Jonny Hyman was a legend in editing, animation, filming, and sound design for this video.
+            </media:description>
+            <media:community>
+                <media:starRating count="60518" average="4.94" min="1" max="5"/>
+                <media:statistics views="1490971"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:GATuMWAFBUA</id>
+        <yt:videoId>GATuMWAFBUA</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Why the Future of Cars is Electric</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=GATuMWAFBUA"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-08-02T17:03:00+00:00</published>
+        <updated>2019-08-12T11:57:24+00:00</updated>
+        <media:group>
+            <media:title>Why the Future of Cars is Electric</media:title>
+            <media:content url="https://www.youtube.com/v/GATuMWAFBUA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/GATuMWAFBUA/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Electric cars are now ready to take over thanks to advances in battery technology and their inherent benefits: torque, handling, maintenance. This video was sponsored by BMW: https://www.bmwusa.com/ Full disclosure: I drive an #electric #car. I think electric cars are the future, not mainly because they're better for the environment (which they are if you drive the car for any reasonable length of time) but because they are just better cars. The have better torque and acceleration, better handling, they're more efficient, quieter, they don't smell, they're cheaper to run and best of all you never have to visit a gas station - this appeals to me. I never have to worry about being low on gas because every morning my car is charged and ready to go - just like my phone and laptop. And if you're worried about range, don't. Almost all trips can already be done in an electric car with modest battery pack. And fast chargers along the way make it possible to do longer road trips if necessary. You have to make rest stops anyway, just time them with the charging. And consider that battery tech is getting dramatically cheaper, smaller, lighter. All these reasons are why I see the #future of cars as electric. Writing and Research Derek Muller Jonny Hyman Matthew Shribman https://ve42.co/sciencebath Editing, Animation, Audio, and Music: Jonny Hyman Camerawork: Raquel Nuno Jonny Hyman 1890s Music "National fantasie" by William Paris Chambers, archived in Library of Congress #BMWUSA #NEXTGen #BMWPartner #ad
+            </media:description>
+            <media:community>
+                <media:starRating count="49249" average="4.19" min="1" max="5"/>
+                <media:statistics views="766809"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:E7uGvsT_nnM</id>
+        <yt:videoId>E7uGvsT_nnM</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>
+            Why Apollo Astronauts Trained at a Nuclear Test Site
+        </title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=E7uGvsT_nnM"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-07-19T19:12:16+00:00</published>
+        <updated>2019-12-01T17:09:59+00:00</updated>
+        <media:group>
+            <media:title>
+                Why Apollo Astronauts Trained at a Nuclear Test Site
+            </media:title>
+            <media:content url="https://www.youtube.com/v/E7uGvsT_nnM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/E7uGvsT_nnM/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Apollo astronauts trained in nuclear bomb craters at the Nevada National Security Site. But why?Thanks Audible! Start listening with a 30-day trial and your first audiobook plus two Audible Originals free when you go to http://audible.com/veritasium or text veritasium to 500500 I found this story fascinating because in a way a nuclear bomb crater is more like a meteorite impact site than an impact site itself. Consider: Barringer Crater was claimed to be a meteorite impact site but geologists dismissed it as a volcanic formation. It was only after studying nuclear bomb craters and the minerals found there that geologists concluded the energy and pressures that created Barringer Crater were too high to be from volcanic activity and therefore must have formed from a meteorite impact. Special Thanks to: Nevada National Security Site The National Atomic Testing Museum Jonny Hyman and Verse: https://youtu.be/7bUUGzi-AAY Active Galactic for footage of craters in Arizona: https://youtu.be/yhoooBpndog Special thanks to Patreon supporters: a human, Alfred Wallace, Arjun Chakroborty, Brent Stewart, Bryan Baker, Chris Vargas, Chuck Lauer Vose, Clip Tree, Coale Shifflett, Colin Bellmore, DALE HORNE, Daniel Milum, Donal Botkin, Eric Velazquez, Illya Nayshevsky, James Knight, James Wong, Jasper Xin, Joar Wandborg, Johnny, June Kang, Kevin Beavers, kkm, Leah Howard, Listen Money Matters, Lyvann Ferrusca, Manuel Zürcher, Mathias Göransson, Michael Bradley Wirz, Michael Krugman, Mohammed Al Sahaf, OddJosh, Philipp Volgger, Pindex, Roberto Rezende, Robin DeBank, Ron Neal, Sam Lutfi, Stan Presolski, Tige Thorman, Warrior8252 Filmed by Raquel Nuno Story and Editing by Derek Muller and Jonny Hyman Music and Animation by Jonny Hyman Produced by Casey Rentz
+            </media:description>
+            <media:community>
+                <media:starRating count="77963" average="4.93" min="1" max="5"/>
+                <media:statistics views="2085511"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:BtCNBh0AsWM</id>
+        <yt:videoId>BtCNBh0AsWM</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>How Cod Saved the Vikings</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=BtCNBh0AsWM"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-07-07T16:09:31+00:00</published>
+        <updated>2019-12-15T18:53:30+00:00</updated>
+        <media:group>
+            <media:title>How Cod Saved the Vikings</media:title>
+            <media:content url="https://www.youtube.com/v/BtCNBh0AsWM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/BtCNBh0AsWM/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                The Vikings suffered many hardships living in the north of Europe: long, cold winters and importantly a lack of sunlight. Luckily, they had cod. Check out Vitamania: https://ve42.co/cod When making a video about vitamins I thought the story would mainly be about supplement pills, whether we should or shouldn't take them and how they're made. But what I found out is vitamins have a remarkable story that affects many more aspects of our lives. For example the Vikings needed a source of vitamin D to last the dark winter months and for their children to develop strong, healthy bones, avoiding rickets. Special thanks to Patreon supporters: a human, Albert Jachowicz-Brzeziński, Alfred Wallace, Arjun Chakroborty, Brent Stewart, Chris Vargas, Chuck Lauer Vose, Clip Tree, Coale Shifflett, Colin Bellmore, DALE HORNE, Eric Velazquez, Fedor Indutny, Fran Rodriguez, James Wong, Jasper Xin, Joar Wandborg, Johnny, Jorge Angel Sandoval, June Kang, Kevin Beavers, Kishore Tipirneni, Levan Ferr, Listen Money Matters, Manuel Zürcher, Mark Bevilacqua, Mathias Göransson, Michael Bradley Wirz, Michael Krugman, Mohammed Al Sahaf, Nicholas Hastings, OddJosh, Patrick Čalija, Peter Tajti, Philipp Volgger, Roberto Rezende, Robin DeBank, Ron Neal, Stan Presolski, Swante Scholz, Tiago Bruno, Tige Thorman, Warrior8252 This video was filmed by Harry Panagiotidis Researched and written by Derek Muller and Jonny Hyman Editing, animation and music by Jonny Hyman Cod liver oil animation by Iván Tello Vitamania was written, directed and produced by Sonya Pemberton
+            </media:description>
+            <media:community>
+                <media:starRating count="58821" average="4.95" min="1" max="5"/>
+                <media:statistics views="1031811"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:GcdB5bFwio4</id>
+        <yt:videoId>GcdB5bFwio4</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>I Waterproofed Myself With Aerogel!</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=GcdB5bFwio4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-06-21T20:59:32+00:00</published>
+        <updated>2019-12-08T01:16:35+00:00</updated>
+        <media:group>
+            <media:title>I Waterproofed Myself With Aerogel!</media:title>
+            <media:content url="https://www.youtube.com/v/GcdB5bFwio4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/GcdB5bFwio4/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Aerogel has extraordinary properties but it can be tough to work with. This video looks at modifying aerogels to take advantage of their unique characteristics. Subscribe to Veritasium: https://ve42.co/sub Huge thanks to Dr. Stephen Steiner and the crew at Aerogel Technologies. To find out more or buy your own aerogel sample, check out: http://www.aerogeltechnologies.com/ Thanks to Dr. Steven Jones and Dr. Mihail Petkov at NASA's Jet Propulsion Laboratory And thanks to FLIR for loaning us the awesome high definition thermal camera. The footage is amazing! https://www.flir.com Aerogel’s extraordinary properties are due in large part to its structure. Aerogel is a solid but on the nanoscale it has a mesh or sponge-like structure. The struts of this structure are nanoscale, as are the pores at around 20nm across. This makes silica aerogel incredibly light (it was once the lightest solid but has now been superseded by graphene aerogel), transparent and adsorbent. An ice-cube sized piece of aerogel has an internal surface area roughly equal to half a football field. Aerogel is used in high end museum cases to regulate humidity. Plus it helps maintain the vacuum on the Mars Insight seismometers - it adsorbs moisture and other outgassed volatiles that come from the spacecraft itself. Proposed uses include as a physical insecticide by ‘drying out insects’ reducing the need for chemical and toxic pesticides. Special thanks to all my Patreon supporters especially those who contributed feedback to an earlier draft of this video: a human, Albert Jachowicz-Brzeziński, Alfred Wallace, Arjun Chakroborty, Brent Stewart, Chris Vargas, Chuck Lauer Vose, Clip Tree, Coale Shifflett, Colin Bellmore, DALE HORNE, Eric Velazquez, Fedor Indutny, Fran Rodriguez, James Wong, Jasper Xin, Joar Wandborg, Johnny, Jorge Angel Sandoval, June Kang, Kevin Beavers, Kishore Tipirneni, Levan Ferr, Listen Money Matters, Manuel Zürcher, Mark Bevilacqua, Mathias Göransson, Michael Bradley Wirz, Michael Krugman, Mohammed Al Sahaf, Nicholas Hastings, OddJosh, Patrick Čalija, Peter Tajti, Philipp Volgger, Roberto Rezende, Robin DeBank, Ron Neal, Stan Presolski, Swante Scholz, Tiago Bruno, Tige Thorman, Warrior8252 Filmed by Paul Gramaglia Thumbnail by Ignat Berbeci Animations by Catherine Chooljian Music from https://epidemicsound.com “Tonic Zone” “Betelgeuse” “Insidious Mice” “Seaweed” “It’s not that serious” “Platin00m - Sum It” This is an educational, scientific video.
+            </media:description>
+            <media:community>
+                <media:starRating count="318803" average="4.91" min="1" max="5"/>
+                <media:statistics views="13137784"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:BZbChKzedEk</id>
+        <yt:videoId>BZbChKzedEk</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Can You Swim in Shade Balls?</title>
+        <link rel="alternate" href="https://www.youtube.com/watch?v=BZbChKzedEk"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-06-13T16:42:25+00:00</published>
+        <updated>2019-12-12T02:27:13+00:00</updated>
+        <media:group>
+            <media:title>Can You Swim in Shade Balls?</media:title>
+            <media:content url="https://www.youtube.com/v/BZbChKzedEk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/BZbChKzedEk/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                I bought 10,000 shade balls and tried to swim in them. They appear to act like a non-Newtonian fluid: rigid under high shear stress, but they flow like a liquid under low shear. Get a signed shade ball by supporting Veritasium: https://ve42.co/patreon Receiving a shade ball: 1. Support Veritasium on any Patreon tier and enter your address https://ve42.co/patreon 2. In about a month I will send out signed shade balls 3. I will cover all shipping costs but if things get really crazy I will prioritize existing Patreon supporters and higher tiers My sense was that swimming in shade balls would be difficult but still doable. This was roughly true for the single layer of shade balls. The shade balls slide past each other so they act like a liquid, albeit a viscous one owing to their significant inertia. It's much more intense exercise and it's also annoying to be bombarded with shade balls on all sides of your body, particularly your head. With multi-layer shade balls (as exists on much of LA reservoir) things get significantly more difficult. The balls bunch together and when you try to move through them quickly, they become more rigid, providing significant resistance to motion. This has the benefit that you can lie on them and as long as they stay trapped under you, you can float on them. But a little bit of motion causes them to move around and you sink through quickly. Huge thanks to: Jordan Schnabel and Cristian Carretero for filming and swimming and providing lifeguard services. Raquel Nuno for filming and putting up with me. Special thanks to Patreon supporters: Donal Botkin, Michael Krugman, Ron Neal, Stan Presolski, Terrance Shepherd, Penward Rhyme and everyone who provided feedback on an early draft of this video. Music from https://epidemicsound.com "Dubstep Mammoth 2" "Finally Here (Instrumental)" "The Last Arrival" "Sundown Love (Instrumental)"
+            </media:description>
+            <media:community>
+                <media:starRating count="291248" average="4.81" min="1" max="5"/>
+                <media:statistics views="13915865"/>
+            </media:community>
+        </media:group>
+    </entry>
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?user=MonsieurDream"/>
+<id>yt:channel:UCyWqModMQlbIo8274Wh_ZsQ</id>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>Cyprien</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2007-02-25T22:14:05+00:00</published>
+<entry>
+<id>yt:video:79pFPZNyiWw</id>
+<yt:videoId>79pFPZNyiWw</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>LES PUBS vs LA VIE 4</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=79pFPZNyiWw"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-12-07T15:21:50+00:00</published>
+<updated>2019-12-12T18:57:56+00:00</updated>
+<media:group>
+<media:title>LES PUBS vs LA VIE 4</media:title>
+<media:content url="https://www.youtube.com/v/79pFPZNyiWw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/79pFPZNyiWw/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Pour voir les autres épisodes : https://www.youtube.com/watch?v=Gi-n_Ku4Xek La chaîne de Natoo : https://www.youtube.com/channel/UCtihF1ZtlYVzoaj_bKLQZ-Q La chaîne de Wendy Nieto : https://www.youtube.com/channel/UCr6qEHYXEpi2wV6seZizUJg Avec la participation des Enfants de la Comédie
+</media:description>
+<media:community>
+<media:starRating count="554274" average="4.93" min="1" max="5"/>
+<media:statistics views="6477490"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:tky7JBkVgTE</id>
+<yt:videoId>tky7JBkVgTE</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>Je juge VOS vidéos !</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=tky7JBkVgTE"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-10-04T14:00:26+00:00</published>
+<updated>2019-10-08T17:32:42+00:00</updated>
+<media:group>
+<media:title>Je juge VOS vidéos !</media:title>
+<media:content url="https://www.youtube.com/v/tky7JBkVgTE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/tky7JBkVgTE/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+C'est ici pour découvrir le concours : http://www.festival21-cdiscount.com/ Je suis fier de parrainer la première édition du Festival21 organisé par Cdiscount ! Avec le jury on élira les 4 meilleurs d’entre vous qui vont se partager 15 000€ de matos ! Soyez imaginatifs et audacieux ! Vous pourrez aussi voter pour vos vidéos préférées sur le site pour décerner les 2 prix du public. Vous avez jusqu'au 24 octobre pour proposer votre participation ! J'ai hâte de voir vos vidéos !
+</media:description>
+<media:community>
+<media:starRating count="195275" average="4.90" min="1" max="5"/>
+<media:statistics views="2692814"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:BSiKzW9BwpE</id>
+<yt:videoId>BSiKzW9BwpE</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>BÊTISIER + SCÈNES COUPÉES LES RÉUNIONS 4</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=BSiKzW9BwpE"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-09-09T12:24:29+00:00</published>
+<updated>2019-09-10T05:13:55+00:00</updated>
+<media:group>
+<media:title>BÊTISIER + SCÈNES COUPÉES LES RÉUNIONS 4</media:title>
+<media:content url="https://www.youtube.com/v/BSiKzW9BwpE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/BSiKzW9BwpE/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Voici les scènes coupées et le bêtisier de l'épisode 4 ! Il y a un message caché dans cette vidéo, sauras-tu le retrouver ?
+</media:description>
+<media:community>
+<media:starRating count="263035" average="4.97" min="1" max="5"/>
+<media:statistics views="4660157"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:IB9iVl-geRM</id>
+<yt:videoId>IB9iVl-geRM</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>LES RÉUNIONS 4</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=IB9iVl-geRM"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-09-06T15:01:30+00:00</published>
+<updated>2019-09-10T05:01:50+00:00</updated>
+<media:group>
+<media:title>LES RÉUNIONS 4</media:title>
+<media:content url="https://www.youtube.com/v/IB9iVl-geRM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/IB9iVl-geRM/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+LES SCÈNES COUPÉES + BÊTISIER ICI : https://www.youtube.com/watch?v=BSiKzW9BwpE La chaîne de Ludovik : https://www.youtube.com/user/ludovik La chaîne de Julien : https://www.youtube.com/user/JulienJosselin Merci à Anne Duval, Maxime Pontois, Webedia, CodJordan23, Helen, Avril et les Enfants de la Comédie !
+</media:description>
+<media:community>
+<media:starRating count="527197" average="4.94" min="1" max="5"/>
+<media:statistics views="9715746"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:Z68Y1ac7s_k</id>
+<yt:videoId>Z68Y1ac7s_k</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>Je vous dévoile ma passion secrète...</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=Z68Y1ac7s_k"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-08-02T15:33:03+00:00</published>
+<updated>2019-08-25T16:16:35+00:00</updated>
+<media:group>
+<media:title>Je vous dévoile ma passion secrète...</media:title>
+<media:content url="https://www.youtube.com/v/Z68Y1ac7s_k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/Z68Y1ac7s_k/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+J'en ai jamais vraiment parlé, pourtant ça me passionne depuis des années. Tous les jours, petit à petit, je pratique cette activité très originale.
+</media:description>
+<media:community>
+<media:starRating count="235119" average="4.86" min="1" max="5"/>
+<media:statistics views="2532886"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:fGdk5EGSY60</id>
+<yt:videoId>fGdk5EGSY60</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>LES INSTAGRAMEUSES summer edition 👙🏝</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=fGdk5EGSY60"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-06-28T15:37:50+00:00</published>
+<updated>2019-07-01T23:28:42+00:00</updated>
+<media:group>
+<media:title>LES INSTAGRAMEUSES summer edition 👙🏝</media:title>
+<media:content url="https://www.youtube.com/v/fGdk5EGSY60?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/fGdk5EGSY60/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Alice et Zoé sont de retour pour une "summer édition". Du love sur Audrey Pirault qui incarne Zoé ! L'Insta d'Alice : http://www.instagram.com/inparisAlice Celui de Zoé : http://www.instagram.com/ZoeSuisMoi Merci à l'Hôtel du Golf Barrière Deauville pour avoir accueilli les deux influenceuses et Luciole
+</media:description>
+<media:community>
+<media:starRating count="560935" average="4.92" min="1" max="5"/>
+<media:statistics views="9483802"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:1U5lzfTYAA4</id>
+<yt:videoId>1U5lzfTYAA4</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>CES DÉTAILS QU'ON A CACHÉS AU JAPON</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=1U5lzfTYAA4"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-06-03T15:05:05+00:00</published>
+<updated>2019-11-22T11:15:11+00:00</updated>
+<media:group>
+<media:title>CES DÉTAILS QU'ON A CACHÉS AU JAPON</media:title>
+<media:content url="https://www.youtube.com/v/1U5lzfTYAA4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/1U5lzfTYAA4/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Le making of de notre court métrage, on vous explique tout de notre tournage au Japon qui nous a beaucoup marqué ! Merci à Kana, découvrez le manga de Inio Asano ici : https://www.kana.fr/produit/bonne-nuit-punpun-t1/ Le manga de Oono Kosuke sortira très bientôt. Les musiques au piano sont composées par Guillaume Ferran, découvrez sa chaîne : https://www.youtube.com/user/guigui4Q4/videos Merci au Manga Café de nous avoir accueilli https://www.mangacafe.fr Making of réalisé par Rémy Argaud, étalonnage Florian Jarry
+</media:description>
+<media:community>
+<media:starRating count="227138" average="4.97" min="1" max="5"/>
+<media:statistics views="2760631"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:7MnVflaeJPE</id>
+<yt:videoId>7MnVflaeJPE</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>Minori (court métrage)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=7MnVflaeJPE"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-05-31T14:58:41+00:00</published>
+<updated>2019-11-17T22:31:33+00:00</updated>
+<media:group>
+<media:title>Minori (court métrage)</media:title>
+<media:content url="https://www.youtube.com/v/7MnVflaeJPE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/7MnVflaeJPE/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+REGARDEZ LE MAKING OF : https://youtu.be/1U5lzfTYAA4 Écoutez la bande originale : https://www.youtube.com/channel/UCKt5j-sogICwvkNsFAGze-g Merci Birds Melt Sky pour la musique de fin : https://www.youtube.com/user/birdsmeltsky On remercie Anais Vachez pour sa précieuse aide 🌸
+</media:description>
+<media:community>
+<media:starRating count="756978" average="4.93" min="1" max="5"/>
+<media:statistics views="6481287"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:tHN1NGuscIs</id>
+<yt:videoId>tHN1NGuscIs</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>J'ai trouvé LA meilleure fanfiction</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=tHN1NGuscIs"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-05-17T14:14:06+00:00</published>
+<updated>2019-07-25T10:23:08+00:00</updated>
+<media:group>
+<media:title>J'ai trouvé LA meilleure fanfiction</media:title>
+<media:content url="https://www.youtube.com/v/tHN1NGuscIs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/tHN1NGuscIs/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Merci à David Chabant pour son imitation, découvrez sa chaîne : https://www.youtube.com/channel/UCuxVPSO0_EiL01_tneRCEcA Merci à Nathan et CacahuetteVide pour cette magnifique fanfiction remplie de tension amoureuse et de saucisses.
+</media:description>
+<media:community>
+<media:starRating count="253987" average="4.88" min="1" max="5"/>
+<media:statistics views="3588585"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:7agOVafPP9s</id>
+<yt:videoId>7agOVafPP9s</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>JE MONTRE MA CHAÎNE À DES JAPONAIS À TOKYO</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=7agOVafPP9s"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-05-04T09:16:18+00:00</published>
+<updated>2019-05-20T17:35:48+00:00</updated>
+<media:group>
+<media:title>JE MONTRE MA CHAÎNE À DES JAPONAIS À TOKYO</media:title>
+<media:content url="https://www.youtube.com/v/7agOVafPP9s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/7agOVafPP9s/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Voici mes 10 jours à Tokyo, c'était DINGUE. Merci à NordVPN ! Seulement 2,62€ par mois et un mois gratuit ici : https://nordvpn.com/cyprien Utilisez le code : CYPRIEN Merci aussi aux éditions Kana pour la rencontre avec Inio Asano. Si vous voulez découvrir la chaîne du youtubeur japonais que je rencontre, c’est ici : https://www.youtube.com/channel/UCiFc7qJmWVnf6u3bTZmhYhg
+</media:description>
+<media:community>
+<media:starRating count="327828" average="4.94" min="1" max="5"/>
+<media:statistics views="4577612"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:jIEQRvj5UuQ</id>
+<yt:videoId>jIEQRvj5UuQ</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>La télé doit arrêter ça.</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=jIEQRvj5UuQ"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-04-16T16:18:49+00:00</published>
+<updated>2019-05-17T17:49:58+00:00</updated>
+<media:group>
+<media:title>La télé doit arrêter ça.</media:title>
+<media:content url="https://www.youtube.com/v/jIEQRvj5UuQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/jIEQRvj5UuQ/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Quand la télé ne respecte pas les youtubeurs. On revient sur mes interviews à la télévision et... ça vaut le détour. Abonne-toi pour dépasser les 13.000 abonnés ! Youhou !
+</media:description>
+<media:community>
+<media:starRating count="535692" average="4.92" min="1" max="5"/>
+<media:statistics views="7782935"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:83uNdLAwSZk</id>
+<yt:videoId>83uNdLAwSZk</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>JE REGARDE MES PREMIÈRES VIDÉOS...</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=83uNdLAwSZk"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-03-28T15:56:14+00:00</published>
+<updated>2019-08-22T21:16:04+00:00</updated>
+<media:group>
+<media:title>JE REGARDE MES PREMIÈRES VIDÉOS...</media:title>
+<media:content url="https://www.youtube.com/v/83uNdLAwSZk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/83uNdLAwSZk/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Je vous présente les toutes premières vidéos que j'ai posté sur internet, c'était il y a plus de 10 ans. Et c'est l'angoisse 😅 Abonne-toi : http://www.youtube.com/user/monsieurdream?sub_confirmation=1 Mon insta : http://www.instagram.com/6pri1
+</media:description>
+<media:community>
+<media:starRating count="321190" average="4.89" min="1" max="5"/>
+<media:statistics views="5037398"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:4Ns1IVTKa_Q</id>
+<yt:videoId>4Ns1IVTKa_Q</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>LA COUR DES GRANDS (clash Squeezie)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=4Ns1IVTKa_Q"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-03-10T15:58:01+00:00</published>
+<updated>2019-12-13T20:18:27+00:00</updated>
+<media:group>
+<media:title>LA COUR DES GRANDS (clash Squeezie)</media:title>
+<media:content url="https://www.youtube.com/v/4Ns1IVTKa_Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/4Ns1IVTKa_Q/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+C'est dommage d'en arriver là Lucas, on oublie tout ? Abonne-toi quand même. Enregistrement et mixage Martin Bonami Instru "MUSETTE" par Nodey (p) 2019 NODEY Editions JEUNE A JAMAIS
+</media:description>
+<media:community>
+<media:starRating count="700673" average="4.49" min="1" max="5"/>
+<media:statistics views="12989462"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:4J2rRh_Atuo</id>
+<yt:videoId>4J2rRh_Atuo</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>MES 10 CHAÎNES YOUTUBE PRÉFÉRÉES</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=4J2rRh_Atuo"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-02-11T15:21:01+00:00</published>
+<updated>2019-06-26T13:32:04+00:00</updated>
+<media:group>
+<media:title>MES 10 CHAÎNES YOUTUBE PRÉFÉRÉES</media:title>
+<media:content url="https://www.youtube.com/v/4J2rRh_Atuo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/4J2rRh_Atuo/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+Voici une liste de 10 chaînes qui me fascinent ! Les liens pour découvrir ces pépites : MALEC : https://www.youtube.com/channel/UCgQhTx7Dlpl6xKwHtbsowgQ THOMAS ROMAIN : https://www.youtube.com/channel/UC70l0A5od5wZ0qSwc1SreOw WINTERGATAN : https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ YES VOUS AIME : https://www.youtube.com/channel/UCXQW_V8roJ1UBcJq-fNP1eQ INERNET : https://www.youtube.com/channel/UCizRcVvydvS8RaOMGIsPZaA SIMONE GIERTZ : https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ THOMAS GAUTHIER : https://www.youtube.com/user/TomliVlogs KEKE : https://www.youtube.com/user/kekeflipnote SCINÉMA : https://www.youtube.com/channel/UCPF7JOWMDWZmnP_cQfyAezg ARCHIPEL : https://www.youtube.com/channel/UC3zoY9LapZERsN7caDKqz0w JAPANTHING : https://www.youtube.com/user/JapanThing FREDDY GLADIEUX : https://www.youtube.com/channel/UCBrrqFkw5Pu42v5DxD_khIg LES INTERNETTES pour découvrir plein de créatrices talentueuses : https://www.youtube.com/channel/UCCNyXbmCmmEJIeukYgD1yMA
+</media:description>
+<media:community>
+<media:starRating count="289390" average="4.91" min="1" max="5"/>
+<media:statistics views="4591629"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:b5Q1K7jzZN4</id>
+<yt:videoId>b5Q1K7jzZN4</yt:videoId>
+<yt:channelId>UCyWqModMQlbIo8274Wh_ZsQ</yt:channelId>
+<title>CYPRIEN - LA ROUMANIE</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=b5Q1K7jzZN4"/>
+<author>
+<name>Cyprien</name>
+<uri>
+https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ
+</uri>
+</author>
+<published>2019-01-25T16:38:23+00:00</published>
+<updated>2019-12-07T13:00:35+00:00</updated>
+<media:group>
+<media:title>CYPRIEN - LA ROUMANIE</media:title>
+<media:content url="https://www.youtube.com/v/b5Q1K7jzZN4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/b5Q1K7jzZN4/hqdefault.jpg" width="480" height="360"/>
+<media:description>
+J'ai passé quelques jours sur la terre de mes ancêtres. Il faut que je vous en parle. Peux-tu t'abonner ? Mulțumesc. Oui il y a une cédille sous le T.
+</media:description>
+<media:community>
+<media:starRating count="427224" average="4.91" min="1" max="5"/>
+<media:statistics views="11098312"/>
+</media:community>
+</media:group>
+</entry>
+</feed>

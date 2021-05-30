@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.ProfilController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu fx:id="mi" mnemonicParsing="false" onAction="#backToAcc" onHidden="#backToAcc" onHiding="#backToAcc" onMenuValidation="#backToAcc" onShowing="#backToAcc" onShown="#backToAcc">
+               <graphic>
+                  <Label onMouseClicked="#backToAcc" text="Accueil" />
+               </graphic></Menu>
+          <Menu mnemonicParsing="false" text="Recherche">
+               <items>
+                  <MenuItem mnemonicParsing="false" text="Nouveauté" />
+                  <MenuItem mnemonicParsing="false" text="Recmmandé" />
+                  <MenuItem mnemonicParsing="false" text="Catégorie" />
+               </items>
+          </Menu>
+          <Menu mnemonicParsing="false">
+               <graphic>
+                  <Label onMouseClicked="#goToProfile" text="Profil" />
+               </graphic></Menu>
+        </menus>
+        </MenuBar>
+   </top>
+   <bottom>
+      <Label text="©CodingWeek 2K19-Les 4 fantastiques" BorderPane.alignment="CENTER" />
+   </bottom>
+   <center>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Label text="Historique" />
+                  <HBox fx:id="Histo" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+                     <children>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" onMouseClicked="#AfficheMedia" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Pause.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Pause.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Pause.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Pause.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Label text="Download" />
+                  <HBox fx:id="Download" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+                     <children>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Play.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Play.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Play.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Play.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Label text="Abonnements" />
+                  <HBox fx:id="Abo" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+                     <children>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Stop.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Stop.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Stop.png" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../ImButton/Stop.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </center>
+   <left>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Nom">
+               <VBox.margin>
+                  <Insets left="50.0" top="50.0" />
+               </VBox.margin>
+            </Label>
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <VBox.margin>
+                  <Insets top="100.0" />
+               </VBox.margin>
+               <image>
+                  <Image url="@../../ImButton/t2.png" />
+               </image>
+            </ImageView>
+         </children>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+         <padding>
+            <Insets bottom="200.0" />
+         </padding>
+      </VBox>
+   </left>
+</BorderPane>

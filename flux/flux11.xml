@@ -1,0 +1,602 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Gaming Live - Xbox One - JeuxVideo.com</title>
+<link>http://www.jeuxvideo.com/</link>
+<language>fr-fr</language>
+<copyright>
+Copyright 1997-2019 L'Odyssee Interactive JeuxVideo.com SAS
+</copyright>
+<itunes:author>JeuxVideo.com</itunes:author>
+<itunes:owner>
+<itunes:name>Jeuxvideo.com</itunes:name>
+<itunes:email>webmaster@jeuxvideo.com (Webmaster)</itunes:email>
+</itunes:owner>
+<itunes:category text="Games &amp; Hobbies"></itunes:category>
+<itunes:category text="Video Games"></itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<category>Jeux Video</category>
+<managingEditor>webmaster@jeuxvideo.com (Webmaster)</managingEditor>
+<webMaster>webmaster@jeuxvideo.com (Webmaster)</webMaster>
+<ttl>60</ttl>
+<lastBuildDate>Mon, 23 Dec 2019 20:01:47 +0100</lastBuildDate>
+<itunes:subtitle>
+Des interviews, des making-of et des reportages qui permettent d'aller plus loin dans la découverte des jeux vidéo.
+</itunes:subtitle>
+<itunes:summary>
+Des interviews, des making-of et des reportages qui permettent d'aller plus loin dans la découverte des jeux vidéo.
+</itunes:summary>
+<description>
+Des interviews, des making-of et des reportages qui permettent d'aller plus loin dans la découverte des jeux vidéo.
+</description>
+<itunes:image href="http://www.jeuxvideo.com/img/itunes/it-gl-one.png"></itunes:image>
+<image>
+<title>Gaming Live - Xbox One - JeuxVideo.com</title>
+<url>http://www.jeuxvideo.com/img/itunes/it-gl-one.png</url>
+<link>http://www.jeuxvideo.com/</link>
+</image>
+<item>
+    <title><![CDATA[Gaming Live - Shovel Knight : King of Cards - On tente de battre les meilleurs joueurs de cartes]]></title>
+    <itunes:subtitle>Oyez oyez ! C&#039;est l&#039;heure de jouer au Joustus, le jeu de cartes de Shovel Knight : King of Cards. In...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/s/h/shovel-knight-king-of-cards-on-tente-de-battre-les-meilleurs-joueurs-de-cartes-1067108-1576860498-low.mp4" length="16:35" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1164534/shovel-knight-king-of-cards-on-tente-de-battre-les-meilleurs-joueurs-de-cartes.htm</guid>
+    <link>/videos/gaming-live/1164534/shovel-knight-king-of-cards-on-tente-de-battre-les-meilleurs-joueurs-de-cartes.htm</link>
+    <itunes:summary><![CDATA[Oyez oyez ! C&#039;est l&#039;heure de jouer au Joustus, le jeu de cartes de Shovel Knight : King of Cards. Indee et Anagund vous présentent les règles et tente...]]></itunes:summary>
+    <description><![CDATA[Oyez oyez ! C&#039;est l&#039;heure de jouer au Joustus, le jeu de cartes de Shovel Knight : King of Cards. Indee et Anagund vous présentent les règles et tente...]]></description>
+    <pubDate>Sat, 21 Dec 2019 09:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>16:35</itunes:duration>
+    <itunes:keywords><![CDATA[Shovel Knight : King of Cards - On tente de battre les meilleurs joueurs de cartes]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Tools Up! : On vise les trois étoiles dans cet Overcooked-like]]></title>
+    <itunes:subtitle>Ken et Indee, ouvriers du bâtiment de l&#039;extrême, tentent de marquer trois étoiles dans plusieurs niv...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/t/o/tools-up-on-vise-les-trois-etoiles-dans-cet-overcooked-like-1065293-1576595016-low.mp4" length="18:27" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1163074/tools-up-on-vise-les-trois-etoiles-dans-cet-overcooked-like.htm</guid>
+    <link>/videos/gaming-live/1163074/tools-up-on-vise-les-trois-etoiles-dans-cet-overcooked-like.htm</link>
+    <itunes:summary><![CDATA[Ken et Indee, ouvriers du bâtiment de l&#039;extrême, tentent de marquer trois étoiles dans plusieurs niveaux de Tools Up!. Cet Overcooked-like propose d&#039;i...]]></itunes:summary>
+    <description><![CDATA[Ken et Indee, ouvriers du bâtiment de l&#039;extrême, tentent de marquer trois étoiles dans plusieurs niveaux de Tools Up!. Cet Overcooked-like propose d&#039;i...]]></description>
+    <pubDate>Tue, 17 Dec 2019 16:49:18 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>18:27</itunes:duration>
+    <itunes:keywords><![CDATA[Tools Up! : On vise les trois étoiles dans cet Overcooked-like]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Arise : A Simple Story - On tente de terminer un niveau sans mourir]]></title>
+    <itunes:subtitle>Même si le personnage principal d’Arise : A Simple Story meurt dans les tous premiers instants du ti...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/a/r/arise-a-simple-story-1054803-1575302962-low.mp4" length="17:50" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1154385/arise-a-simple-story-on-tente-de-terminer-un-niveau-sans-mourir.htm</guid>
+    <link>/videos/gaming-live/1154385/arise-a-simple-story-on-tente-de-terminer-un-niveau-sans-mourir.htm</link>
+    <itunes:summary><![CDATA[Même si le personnage principal d’Arise : A Simple Story meurt dans les tous premiers instants du titre, nous tentons dans ce Gaming Live de terminer...]]></itunes:summary>
+    <description><![CDATA[Même si le personnage principal d’Arise : A Simple Story meurt dans les tous premiers instants du titre, nous tentons dans ce Gaming Live de terminer...]]></description>
+    <pubDate>Sun, 08 Dec 2019 10:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>17:50</itunes:duration>
+    <itunes:keywords><![CDATA[Arise : A Simple Story - On tente de terminer un niveau sans mourir]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - KartRider Drift : On tente de remporter une partie en ligne]]></title>
+    <itunes:subtitle>Présenté au X019, KartRider Drift est un jeu de karting qui pioche ses idées dans la légendaire séri...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/k/a/kartrider-drift-one-1059237-1575648602-low.mp4" length="04:46" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1158126/kartrider-drift-on-tente-de-remporter-une-partie-en-ligne.htm</guid>
+    <link>/videos/gaming-live/1158126/kartrider-drift-on-tente-de-remporter-une-partie-en-ligne.htm</link>
+    <itunes:summary><![CDATA[Présenté au X019, KartRider Drift est un jeu de karting qui pioche ses idées dans la légendaire série Mario Kart. Même si la franchise KartRider est p...]]></itunes:summary>
+    <description><![CDATA[Présenté au X019, KartRider Drift est un jeu de karting qui pioche ses idées dans la légendaire série Mario Kart. Même si la franchise KartRider est p...]]></description>
+    <pubDate>Sat, 07 Dec 2019 14:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>04:46</itunes:duration>
+    <itunes:keywords><![CDATA[KartRider Drift : On tente de remporter une partie en ligne]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Astérix &amp; Obélix XXL 3 : Distribution de baffes en coopération dans un camp romain]]></title>
+    <itunes:subtitle>Astérix &amp; Obélix XXL 3 vous propose assez régulièrement au cours de l&#039;aventure qu&#039;il raconte, d&#039;alle...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/a/s/astn-rix-obn-lix-xxl-3-1049997-1574777617-low.mp4" length="13:31" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1150810/asterix-obelix-xxl-3-distribution-de-baffes-en-cooperation-dans-un-camp-romain.htm</guid>
+    <link>/videos/gaming-live/1150810/asterix-obelix-xxl-3-distribution-de-baffes-en-cooperation-dans-un-camp-romain.htm</link>
+    <itunes:summary><![CDATA[Astérix &amp; Obélix XXL 3 vous propose assez régulièrement au cours de l&#039;aventure qu&#039;il raconte, d&#039;aller nettoyer des camps de romains qui sont conçus co...]]></itunes:summary>
+    <description><![CDATA[Astérix &amp; Obélix XXL 3 vous propose assez régulièrement au cours de l&#039;aventure qu&#039;il raconte, d&#039;aller nettoyer des camps de romains qui sont conçus co...]]></description>
+    <pubDate>Fri, 29 Nov 2019 10:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>13:31</itunes:duration>
+    <itunes:keywords><![CDATA[Astérix &amp; Obélix XXL 3 : Distribution de baffes en coopération dans un camp romain]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Destiny 2 : on est en finale de l&#039;Offensive Vex]]></title>
+    <itunes:subtitle>La saison 8 s&#039;achève bientôt, l&#039;occasion pour Bungie de lancer la dernière phase de l&#039;Offensive Vex....</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/d/e/destiny-2-vex-final-1046286-1574330558-low.mp4" length="16:34" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1147582/destiny-2-on-est-en-final-de-l-offensive-vex.htm</guid>
+    <link>/videos/gaming-live/1147582/destiny-2-on-est-en-final-de-l-offensive-vex.htm</link>
+    <itunes:summary><![CDATA[La saison 8 s&#039;achève bientôt, l&#039;occasion pour Bungie de lancer la dernière phase de l&#039;Offensive Vex. Et pour les gardiens de recommencer encore et enc...]]></itunes:summary>
+    <description><![CDATA[La saison 8 s&#039;achève bientôt, l&#039;occasion pour Bungie de lancer la dernière phase de l&#039;Offensive Vex. Et pour les gardiens de recommencer encore et enc...]]></description>
+    <pubDate>Thu, 21 Nov 2019 12:32:59 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>16:34</itunes:duration>
+    <itunes:keywords><![CDATA[Destiny 2 : on est en finale de l&#039;Offensive Vex]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Bee Simulator : On butine un maximum de fleurs]]></title>
+    <itunes:subtitle>On se sent pousser des ailes avec le nouveau jeu de Big Ben Interactive. Ce jeu de simulation d&#039;abei...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/b/e/bee-simulator-1042514-1573833936-low.mp4" length="12:53" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1144438/bee-simulator-on-butine-un-maximum-de-fleurs.htm</guid>
+    <link>/videos/gaming-live/1144438/bee-simulator-on-butine-un-maximum-de-fleurs.htm</link>
+    <itunes:summary><![CDATA[On se sent pousser des ailes avec le nouveau jeu de Big Ben Interactive. Ce jeu de simulation d&#039;abeille vous invite à récolter un maximum de pollen po...]]></itunes:summary>
+    <description><![CDATA[On se sent pousser des ailes avec le nouveau jeu de Big Ben Interactive. Ce jeu de simulation d&#039;abeille vous invite à récolter un maximum de pollen po...]]></description>
+    <pubDate>Sun, 17 Nov 2019 16:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>12:53</itunes:duration>
+    <itunes:keywords><![CDATA[Bee Simulator : On butine un maximum de fleurs]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Star Wars Jedi : Fallen Order – On tente de chasser un Nydak]]></title>
+    <itunes:subtitle>Dans ce premier Gaming Live de Star Wars Jedi : Fallen Order, direction la planète Dathomir pour y c...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/s/t/star-wars-jedi-fallen-order-on-chasse-la-bn-te-1041258-1573742306-low.mp4" length="14:05" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1143210/star-wars-jedi-fallen-order-on-tente-de-chasser-un-nydak.htm</guid>
+    <link>/videos/gaming-live/1143210/star-wars-jedi-fallen-order-on-tente-de-chasser-un-nydak.htm</link>
+    <itunes:summary><![CDATA[Dans ce premier Gaming Live de Star Wars Jedi : Fallen Order, direction la planète Dathomir pour y chasser un voire deux Nydak.
+Bien qu&#039;il ne s&#039;agisse...]]></itunes:summary>
+    <description><![CDATA[Dans ce premier Gaming Live de Star Wars Jedi : Fallen Order, direction la planète Dathomir pour y chasser un voire deux Nydak.
+Bien qu&#039;il ne s&#039;agisse...]]></description>
+    <pubDate>Thu, 14 Nov 2019 19:38:08 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>14:05</itunes:duration>
+    <itunes:keywords><![CDATA[Star Wars Jedi : Fallen Order – On tente de chasser un Nydak]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Star Wars Jedi : Fallen Order – On maîtrise le sabre laser]]></title>
+    <itunes:subtitle>Dans ce second Gaming Live de Star Wars Jedi : Fallen Order, on s&#039;envole sur Zeffo pour affronter qu...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/s/t/star-wars-jedi-fallen-order-on-man-trise-le-combat-au-sabre-laser-1041423-1573751488-low.mp4" length="13:41" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1143312/star-wars-jedi-fallen-order-on-maitrise-le-sabre-laser.htm</guid>
+    <link>/videos/gaming-live/1143312/star-wars-jedi-fallen-order-on-maitrise-le-sabre-laser.htm</link>
+    <itunes:summary><![CDATA[Dans ce second Gaming Live de Star Wars Jedi : Fallen Order, on s&#039;envole sur Zeffo pour affronter quelques membres de l&#039;Empire ainsi qu&#039;une créature l...]]></itunes:summary>
+    <description><![CDATA[Dans ce second Gaming Live de Star Wars Jedi : Fallen Order, on s&#039;envole sur Zeffo pour affronter quelques membres de l&#039;Empire ainsi qu&#039;une créature l...]]></description>
+    <pubDate>Thu, 14 Nov 2019 19:38:03 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>13:41</itunes:duration>
+    <itunes:keywords><![CDATA[Star Wars Jedi : Fallen Order – On maîtrise le sabre laser]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Need for Speed Heat : On personnalise la Nissan de François le Français]]></title>
+    <itunes:subtitle>Dans ce Gaming Live de Need for Speed Heat, Silent_Jay et Sylvain vous montrent leurs talents artist...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/n/e/need-for-speed-heat-1036834-1573127854-low.mp4" length="14:15" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1139295/need-for-speed-heat-on-personnalise-la-nissan-de-francois-le-francais.htm</guid>
+    <link>/videos/gaming-live/1139295/need-for-speed-heat-on-personnalise-la-nissan-de-francois-le-francais.htm</link>
+    <itunes:summary><![CDATA[Dans ce Gaming Live de Need for Speed Heat, Silent_Jay et Sylvain vous montrent leurs talents artistiques, à travers la personnalisation d&#039;une voiture...]]></itunes:summary>
+    <description><![CDATA[Dans ce Gaming Live de Need for Speed Heat, Silent_Jay et Sylvain vous montrent leurs talents artistiques, à travers la personnalisation d&#039;une voiture...]]></description>
+    <pubDate>Tue, 12 Nov 2019 14:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>14:15</itunes:duration>
+    <itunes:keywords><![CDATA[Need for Speed Heat : On personnalise la Nissan de François le Français]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Fortnite : on terrasse le Roi de la Tempête de l&#039;event Halloween]]></title>
+    <itunes:subtitle>C&#039;est Halloween et comme chaque année, la plupart des jeux-service se mettent à jour pour proposer u...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/f/o/fortnite-halloween-gaming-live--1030984-1572445731-low.mp4" length="21:11" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1134588/fortnite-on-terrasse-le-roi-de-la-tempete-de-l-event-halloween.htm</guid>
+    <link>/videos/gaming-live/1134588/fortnite-on-terrasse-le-roi-de-la-tempete-de-l-event-halloween.htm</link>
+    <itunes:summary><![CDATA[C&#039;est Halloween et comme chaque année, la plupart des jeux-service se mettent à jour pour proposer un événement spécial. C&#039;est notamment le cas de For...]]></itunes:summary>
+    <description><![CDATA[C&#039;est Halloween et comme chaque année, la plupart des jeux-service se mettent à jour pour proposer un événement spécial. C&#039;est notamment le cas de For...]]></description>
+    <pubDate>Wed, 30 Oct 2019 16:12:16 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>21:11</itunes:duration>
+    <itunes:keywords><![CDATA[Fortnite : on terrasse le Roi de la Tempête de l&#039;event Halloween]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Carrion : Faisons un carnage sur la démo]]></title>
+    <itunes:subtitle>Carrion est un Metroidvania horrifique dans lequel on contrôle une entité biologique qui se nourrit...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/c/a/carrion-1030290-1572363042-low.mp4" length="16:49" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1134014/carrion-faisons-un-carnage-sur-la-demo.htm</guid>
+    <link>/videos/gaming-live/1134014/carrion-faisons-un-carnage-sur-la-demo.htm</link>
+    <itunes:summary><![CDATA[Carrion est un Metroidvania horrifique dans lequel on contrôle une entité biologique qui se nourrit d&#039;êtres humains. Dans un centre de recherche scien...]]></itunes:summary>
+    <description><![CDATA[Carrion est un Metroidvania horrifique dans lequel on contrôle une entité biologique qui se nourrit d&#039;êtres humains. Dans un centre de recherche scien...]]></description>
+    <pubDate>Tue, 29 Oct 2019 18:12:09 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>16:49</itunes:duration>
+    <itunes:keywords><![CDATA[Carrion : Faisons un carnage sur la démo]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Deliver us the Moon - Comme un petit goût d&#039;Interstellar]]></title>
+    <itunes:subtitle>Vous êtes un astronaute solitaire, envoyé en mission sur la lune afin de sauver l&#039;humanité de son ex...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/d/e/deliver-us-the-moon-1026719-1571926859-low.mp4" length="09:54" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1131011/deliver-us-the-moon-comme-un-petit-gout-d-interstellar.htm</guid>
+    <link>/videos/gaming-live/1131011/deliver-us-the-moon-comme-un-petit-gout-d-interstellar.htm</link>
+    <itunes:summary><![CDATA[Vous êtes un astronaute solitaire, envoyé en mission sur la lune afin de sauver l&#039;humanité de son extinction. La station spatiale sur laquelle vous ar...]]></itunes:summary>
+    <description><![CDATA[Vous êtes un astronaute solitaire, envoyé en mission sur la lune afin de sauver l&#039;humanité de son extinction. La station spatiale sur laquelle vous ar...]]></description>
+    <pubDate>Sat, 26 Oct 2019 14:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>09:54</itunes:duration>
+    <itunes:keywords><![CDATA[Deliver us the Moon - Comme un petit goût d&#039;Interstellar]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - The Outer Worlds : On résout une quête sans violence]]></title>
+    <itunes:subtitle>Notre Gaming Live consacré à The Outer Worlds s&#039;attarde sur une quête secondaire qui résume à elle s...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/t/h/the-outer-worlds-1025411-1571810781-low.mp4" length="14:12" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1129752/the-outer-worlds-balade-dans-une-usine-pas-comme-les-autres.htm</guid>
+    <link>/videos/gaming-live/1129752/the-outer-worlds-balade-dans-une-usine-pas-comme-les-autres.htm</link>
+    <itunes:summary><![CDATA[Notre Gaming Live consacré à The Outer Worlds s&#039;attarde sur une quête secondaire qui résume à elle seule toute la philosophie du jeu. Dans l&#039;optique d...]]></itunes:summary>
+    <description><![CDATA[Notre Gaming Live consacré à The Outer Worlds s&#039;attarde sur une quête secondaire qui résume à elle seule toute la philosophie du jeu. Dans l&#039;optique d...]]></description>
+    <pubDate>Fri, 25 Oct 2019 11:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>14:12</itunes:duration>
+    <itunes:keywords><![CDATA[The Outer Worlds : On résout une quête sans violence]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Call of Duty : Modern Warfare : Opération &quot;nettoyage&quot; dans un repaire terroriste avec Panthaa et Epyon]]></title>
+    <itunes:subtitle>Nous vous proposons aujourd&#039;hui un Gaming Live avec Epyon et Panthaa dans lequel nous essayons de te...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/c/o/cod-mw-clean-house-1026350-1571923910-low.mp4" length="08:17" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1130548/call-of-duty-modern-warfare-operation-nettoyage-dans-un-repere-terroriste-avec-panthaa-et-epyon.htm</guid>
+    <link>/videos/gaming-live/1130548/call-of-duty-modern-warfare-operation-nettoyage-dans-un-repere-terroriste-avec-panthaa-et-epyon.htm</link>
+    <itunes:summary><![CDATA[Nous vous proposons aujourd&#039;hui un Gaming Live avec Epyon et Panthaa dans lequel nous essayons de terminer l&#039;Opération Clean House&quot;. Dans cette bâtiss...]]></itunes:summary>
+    <description><![CDATA[Nous vous proposons aujourd&#039;hui un Gaming Live avec Epyon et Panthaa dans lequel nous essayons de terminer l&#039;Opération Clean House&quot;. Dans cette bâtiss...]]></description>
+    <pubDate>Thu, 24 Oct 2019 16:03:25 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>08:17</itunes:duration>
+    <itunes:keywords><![CDATA[Call of Duty : Modern Warfare : Opération &quot;nettoyage&quot; dans un repaire terroriste avec Panthaa et Epyon]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Apex Legends : On traque les fantômes pendant l&#039;événement Shadowfall !]]></title>
+    <itunes:subtitle>Du 15 octobre au 5 novembre, Apex Legends envoie ses joueurs dans un Canyon des Rois, modifié pour H...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/a/p/apex-legends-1023448-1571408419-low.mp4" length="09:53" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1128106/apex-legends-on-traque-les-fantomes-pendant-l-evenement-shadowfall.htm</guid>
+    <link>/videos/gaming-live/1128106/apex-legends-on-traque-les-fantomes-pendant-l-evenement-shadowfall.htm</link>
+    <itunes:summary><![CDATA[Du 15 octobre au 5 novembre, Apex Legends envoie ses joueurs dans un Canyon des Rois, modifié pour Halloween.
+C&#039;est dans ce nouveau mode d&#039;Apex Legend...]]></itunes:summary>
+    <description><![CDATA[Du 15 octobre au 5 novembre, Apex Legends envoie ses joueurs dans un Canyon des Rois, modifié pour Halloween.
+C&#039;est dans ce nouveau mode d&#039;Apex Legend...]]></description>
+    <pubDate>Fri, 18 Oct 2019 17:02:12 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>09:53</itunes:duration>
+    <itunes:keywords><![CDATA[Apex Legends : On traque les fantômes pendant l&#039;événement Shadowfall !]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Fortnite Chapitre 2 : On se tente le Top1 en toute confiance]]></title>
+    <itunes:subtitle>C&#039;est pratiquement à l&#039;aveuglette que Marshall Gunner de Millenium nous rend visite pour tenter un T...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/f/o/fortnite-1020308-1571154067-low.mp4" length="12:01" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1125605/fortnite-chapitre-2-on-se-tente-le-top1-en-toute-confiance.htm</guid>
+    <link>/videos/gaming-live/1125605/fortnite-chapitre-2-on-se-tente-le-top1-en-toute-confiance.htm</link>
+    <itunes:summary><![CDATA[C&#039;est pratiquement à l&#039;aveuglette que Marshall Gunner de Millenium nous rend visite pour tenter un Top1 sur Fortnite : Chapitre 2. Nouvelle carte qu&#039;i...]]></itunes:summary>
+    <description><![CDATA[C&#039;est pratiquement à l&#039;aveuglette que Marshall Gunner de Millenium nous rend visite pour tenter un Top1 sur Fortnite : Chapitre 2. Nouvelle carte qu&#039;i...]]></description>
+    <pubDate>Tue, 15 Oct 2019 18:19:17 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>12:01</itunes:duration>
+    <itunes:keywords><![CDATA[Fortnite Chapitre 2 : On se tente le Top1 en toute confiance]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Replay - GRID : On veut la médaille d&#039;or du championnat de Barcelone ! ]]></title>
+    <itunes:subtitle>La saga de jeux de course Grid revient avec un nouvel épisode décomplexé, et c&#039;est Epyon qui l&#039;a tes...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/news/g/l/GL_GRID-1017644-1570784998.mp4" length="13:25" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1123282/grid-on-veut-la-medaille-d-or-du-championnat-de-barcelone.htm</guid>
+    <link>/videos/gaming-live/1123282/grid-on-veut-la-medaille-d-or-du-championnat-de-barcelone.htm</link>
+    <itunes:summary><![CDATA[La saga de jeux de course Grid revient avec un nouvel épisode décomplexé, et c&#039;est Epyon qui l&#039;a testé. Pour ce Gaming Live, il tente de remporter une...]]></itunes:summary>
+    <description><![CDATA[La saga de jeux de course Grid revient avec un nouvel épisode décomplexé, et c&#039;est Epyon qui l&#039;a testé. Pour ce Gaming Live, il tente de remporter une...]]></description>
+    <pubDate>Sun, 13 Oct 2019 11:44:37 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>13:25</itunes:duration>
+    <itunes:keywords><![CDATA[GRID : On veut la médaille d&#039;or du championnat de Barcelone ! ]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Red Dead Online : Terminer une quête légendaire en dix minutes]]></title>
+    <itunes:subtitle>Retour sur Red Dead Online avec Sylvain et MalloDelic, dans ce Gaming Live en live, où Mallo s&#039;est f...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/a/gaming-live-red-dead-online-1017239-1570719402-low.mp4" length="11:44" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1122355/red-dead-online-terminer-une-quete-legendaire-en-dix-minutes.htm</guid>
+    <link>/videos/gaming-live/1122355/red-dead-online-terminer-une-quete-legendaire-en-dix-minutes.htm</link>
+    <itunes:summary><![CDATA[Retour sur Red Dead Online avec Sylvain et MalloDelic, dans ce Gaming Live en live, où Mallo s&#039;est fixé comme objectif de récolter une prime légendair...]]></itunes:summary>
+    <description><![CDATA[Retour sur Red Dead Online avec Sylvain et MalloDelic, dans ce Gaming Live en live, où Mallo s&#039;est fixé comme objectif de récolter une prime légendair...]]></description>
+    <pubDate>Thu, 10 Oct 2019 17:56:34 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>11:44</itunes:duration>
+    <itunes:keywords><![CDATA[Red Dead Online : Terminer une quête légendaire en dix minutes]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Destiny 2 : on tue un cauchemar dans Bastion des Ombres]]></title>
+    <itunes:subtitle>Disponible depuis le 1 octobre, l&#039;extension Bastion des Ombres envoie les Gardiens sur la Lune, où i...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/d/e/destiny-1014167-1570453366-low.mp4" length="09:27" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1120022/destiny-2-on-tue-un-cauchemar-dans-bastion-des-ombres.htm</guid>
+    <link>/videos/gaming-live/1120022/destiny-2-on-tue-un-cauchemar-dans-bastion-des-ombres.htm</link>
+    <itunes:summary><![CDATA[Disponible depuis le 1 octobre, l&#039;extension Bastion des Ombres envoie les Gardiens sur la Lune, où ils vont devoir affronter leurs pires cauchemars......]]></itunes:summary>
+    <description><![CDATA[Disponible depuis le 1 octobre, l&#039;extension Bastion des Ombres envoie les Gardiens sur la Lune, où ils vont devoir affronter leurs pires cauchemars......]]></description>
+    <pubDate>Wed, 09 Oct 2019 10:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>09:27</itunes:duration>
+    <itunes:keywords><![CDATA[Destiny 2 : on tue un cauchemar dans Bastion des Ombres]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Destiny 2 : on se lance dans une Offensive Vex]]></title>
+    <itunes:subtitle>Quelques jours après la sortie de la seconde extension de Destiny 2, Bungie a lancé les événements d...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/a/gaming-live-destiny-2-0710-1014315-1570461370-low.mp4" length="17:56" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1120172/destiny-2-on-se-lance-dans-une-offensive-vex.htm</guid>
+    <link>/videos/gaming-live/1120172/destiny-2-on-se-lance-dans-une-offensive-vex.htm</link>
+    <itunes:summary><![CDATA[Quelques jours après la sortie de la seconde extension de Destiny 2, Bungie a lancé les événements de la nouvelle saison, baptisée la Saison des Etern...]]></itunes:summary>
+    <description><![CDATA[Quelques jours après la sortie de la seconde extension de Destiny 2, Bungie a lancé les événements de la nouvelle saison, baptisée la Saison des Etern...]]></description>
+    <pubDate>Tue, 08 Oct 2019 17:45:49 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>17:56</itunes:duration>
+    <itunes:keywords><![CDATA[Destiny 2 : on se lance dans une Offensive Vex]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Ghost Recon Breakpoint : Une mission façon l&#039;Agence Tous Risques]]></title>
+    <itunes:subtitle>Dans ce Gaming Live en live, Silent_Jay et Panthaa tentent de sauver Daigoroth, un jeune homme pris...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/h/ghost-recon-breakpoint-1012568-1570180211-low.mp4" length="19:40" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1118782/ghost-recon-breakpoint-l-agence-tous-risques-au-secours-de-daigoroth.htm</guid>
+    <link>/videos/gaming-live/1118782/ghost-recon-breakpoint-l-agence-tous-risques-au-secours-de-daigoroth.htm</link>
+    <itunes:summary><![CDATA[Dans ce Gaming Live en live, Silent_Jay et Panthaa tentent de sauver Daigoroth, un jeune homme pris en otage. Comme Barracuda, Hannibal et Looping, il...]]></itunes:summary>
+    <description><![CDATA[Dans ce Gaming Live en live, Silent_Jay et Panthaa tentent de sauver Daigoroth, un jeune homme pris en otage. Comme Barracuda, Hannibal et Looping, il...]]></description>
+    <pubDate>Fri, 04 Oct 2019 12:46:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>19:40</itunes:duration>
+    <itunes:keywords><![CDATA[Ghost Recon Breakpoint : Une mission façon l&#039;Agence Tous Risques]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Apex Legends : On tente une victoire avec Crypto, le nouveau personnage de la saison 3 !]]></title>
+    <itunes:subtitle>Disponible depuis le début d&#039;année 2019, Apex Legends fait son petit bonhomme de chemin dans le mond...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/a/p/apex-legends-s3-crypto-1012302-1570116690-low.mp4" length="21:31" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1118603/apex-legends-on-tente-une-victoire-avec-crypto-le-nouveau-personnage-de-la-saison-3.htm</guid>
+    <link>/videos/gaming-live/1118603/apex-legends-on-tente-une-victoire-avec-crypto-le-nouveau-personnage-de-la-saison-3.htm</link>
+    <itunes:summary><![CDATA[Disponible depuis le début d&#039;année 2019, Apex Legends fait son petit bonhomme de chemin dans le monde implacable des Battle Royale. Nous profitons don...]]></itunes:summary>
+    <description><![CDATA[Disponible depuis le début d&#039;année 2019, Apex Legends fait son petit bonhomme de chemin dans le monde implacable des Battle Royale. Nous profitons don...]]></description>
+    <pubDate>Thu, 03 Oct 2019 18:02:11 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>21:31</itunes:duration>
+    <itunes:keywords><![CDATA[Apex Legends : On tente une victoire avec Crypto, le nouveau personnage de la saison 3 !]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Code Vein : On termine un donjon dans les profondeurs]]></title>
+    <itunes:subtitle>Dans Code Vein, le monde des profondeurs correspond aux donjons calices de Bloodborne. L&#039;occasion po...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/c/o/code-vein-1011200-1570017772-low.mp4" length="09:18" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1116708/code-vein-on-termine-un-donjon-dans-les-profondeurs.htm</guid>
+    <link>/videos/gaming-live/1116708/code-vein-on-termine-un-donjon-dans-les-profondeurs.htm</link>
+    <itunes:summary><![CDATA[Dans Code Vein, le monde des profondeurs correspond aux donjons calices de Bloodborne. L&#039;occasion pour MrDeriv de démontrer son skill en massacrant un...]]></itunes:summary>
+    <description><![CDATA[Dans Code Vein, le monde des profondeurs correspond aux donjons calices de Bloodborne. L&#039;occasion pour MrDeriv de démontrer son skill en massacrant un...]]></description>
+    <pubDate>Thu, 03 Oct 2019 11:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>09:18</itunes:duration>
+    <itunes:keywords><![CDATA[Code Vein : On termine un donjon dans les profondeurs]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Creature in the Well : Redonner vie au monde grâce au pouvoir du flipper]]></title>
+    <itunes:subtitle>Conjuguant hack&#039;n slash et jeu de flipper, Creature in the Well invite son joueur dans les profondeu...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/l/gl-creature-in-the-well-1006750-1569415923-low.mp4" length="14:48" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1113831/creature-in-the-well-redonner-vie-au-monde-grace-au-pouvoir-du-flipper.htm</guid>
+    <link>/videos/gaming-live/1113831/creature-in-the-well-redonner-vie-au-monde-grace-au-pouvoir-du-flipper.htm</link>
+    <itunes:summary><![CDATA[Conjuguant hack&#039;n slash et jeu de flipper, Creature in the Well invite son joueur dans les profondeurs d&#039;une installation séculaire afin d&#039;y rétablir...]]></itunes:summary>
+    <description><![CDATA[Conjuguant hack&#039;n slash et jeu de flipper, Creature in the Well invite son joueur dans les profondeurs d&#039;une installation séculaire afin d&#039;y rétablir...]]></description>
+    <pubDate>Sun, 29 Sep 2019 18:15:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>14:48</itunes:duration>
+    <itunes:keywords><![CDATA[Creature in the Well : Redonner vie au monde grâce au pouvoir du flipper]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - The Surge 2 : On s&#039;attaque au deuxième boss en New-Game + ]]></title>
+    <itunes:subtitle>Dans ce Gaming Live en live, 87 va s&#039;attaquer au deuxième boss de The Surge 2, selon lui le meilleur...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/t/h/the-surge-2-1007391-1569501289-low.mp4" length="17:32" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1113649/the-surge-2-on-s-attaque-au-deuxieme-boss-en-new-game.htm</guid>
+    <link>/videos/gaming-live/1113649/the-surge-2-on-s-attaque-au-deuxieme-boss-en-new-game.htm</link>
+    <itunes:summary><![CDATA[Dans ce Gaming Live en live, 87 va s&#039;attaquer au deuxième boss de The Surge 2, selon lui le meilleur et le plus difficile du jeu, dans une partie New-...]]></itunes:summary>
+    <description><![CDATA[Dans ce Gaming Live en live, 87 va s&#039;attaquer au deuxième boss de The Surge 2, selon lui le meilleur et le plus difficile du jeu, dans une partie New-...]]></description>
+    <pubDate>Sun, 29 Sep 2019 10:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>17:32</itunes:duration>
+    <itunes:keywords><![CDATA[The Surge 2 : On s&#039;attaque au deuxième boss en New-Game + ]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Dragon Ball FighterZ : Gogeta part conquérir le monde ! ]]></title>
+    <itunes:subtitle>C&#039;est l&#039;un des personnages les plus populaires de l&#039;univers Dragon Ball, et il a connu un sacré reto...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/d/r/dragon-ball-fighterz-gogeta-part-conqun-rir-le-monde--1007699-1569512395-low.mp4" length="16:51" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1114652/dragon-ball-fighterz-gogeta-part-conquerir-le-monde.htm</guid>
+    <link>/videos/gaming-live/1114652/dragon-ball-fighterz-gogeta-part-conquerir-le-monde.htm</link>
+    <itunes:summary><![CDATA[C&#039;est l&#039;un des personnages les plus populaires de l&#039;univers Dragon Ball, et il a connu un sacré retour en forme grâce au film Dragon Ball Super : Brol...]]></itunes:summary>
+    <description><![CDATA[C&#039;est l&#039;un des personnages les plus populaires de l&#039;univers Dragon Ball, et il a connu un sacré retour en forme grâce au film Dragon Ball Super : Brol...]]></description>
+    <pubDate>Thu, 26 Sep 2019 18:05:50 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>16:51</itunes:duration>
+    <itunes:keywords><![CDATA[Dragon Ball FighterZ : Gogeta part conquérir le monde ! ]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Assassin&#039;s Creed Odyssey - Discovery Tour : on vise le 20/20 à l&#039;interro&#039; ]]></title>
+    <itunes:subtitle>Comme Assassin&#039;s Creed Origins en son temps, Assassin&#039;s Creed Odyssey a droit à son Discovery Tour e...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/a/s/assassin-s-creed-odyssey-discovery-tour-on-vise-le-20-20-na-l-intn-rro-1006929-1569424029-low.mp4" length="15:35" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1113987/assassin-s-creed-odyssey-discovery-tour-on-vise-le-20-20-a-l-interro.htm</guid>
+    <link>/videos/gaming-live/1113987/assassin-s-creed-odyssey-discovery-tour-on-vise-le-20-20-a-l-interro.htm</link>
+    <itunes:summary><![CDATA[Comme Assassin&#039;s Creed Origins en son temps, Assassin&#039;s Creed Odyssey a droit à son Discovery Tour et il vous suffit d&#039;une petite mise à jour pour y a...]]></itunes:summary>
+    <description><![CDATA[Comme Assassin&#039;s Creed Origins en son temps, Assassin&#039;s Creed Odyssey a droit à son Discovery Tour et il vous suffit d&#039;une petite mise à jour pour y a...]]></description>
+    <pubDate>Thu, 26 Sep 2019 12:22:57 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>15:35</itunes:duration>
+    <itunes:keywords><![CDATA[Assassin&#039;s Creed Odyssey - Discovery Tour : on vise le 20/20 à l&#039;interro&#039; ]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Daymare : 1998 - On essaie de repérer cinq références à Resident Evil]]></title>
+    <itunes:subtitle>Daymare : 1998 est très inspiré de la série Resident Evil, particulièrement de Resident Evil 2. L&#039;oc...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/d/a/daymare-1998-on-cherche-les-rn-fn-rences-de-resident-evil-1003077-1568897732-low.mp4" length="12:17" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1110359/daymare-1998-on-essaie-de-reperer-cinq-references-a-resident-evil.htm</guid>
+    <link>/videos/gaming-live/1110359/daymare-1998-on-essaie-de-reperer-cinq-references-a-resident-evil.htm</link>
+    <itunes:summary><![CDATA[Daymare : 1998 est très inspiré de la série Resident Evil, particulièrement de Resident Evil 2. L&#039;occasion pour Logan et Sylvain de s&#039;amuser à repérer...]]></itunes:summary>
+    <description><![CDATA[Daymare : 1998 est très inspiré de la série Resident Evil, particulièrement de Resident Evil 2. L&#039;occasion pour Logan et Sylvain de s&#039;amuser à repérer...]]></description>
+    <pubDate>Sat, 21 Sep 2019 11:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>12:17</itunes:duration>
+    <itunes:keywords><![CDATA[Daymare : 1998 - On essaie de repérer cinq références à Resident Evil]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Borderlands 3 : MrDeriv part à la chasse aux champignons dans une mission secondaire]]></title>
+    <itunes:subtitle>Après nous avoir présenté une mission principale en live dans Gaming Time, MrDeriv s&#039;attaque à une m...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/b/o/borderlands-3-1003066-1568896686-low.mp4" length="10:16" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1107990/borderlands-3-mrderiv-part-a-la-chasse-aux-champignons-dans-une-mission-secondaire.htm</guid>
+    <link>/videos/gaming-live/1107990/borderlands-3-mrderiv-part-a-la-chasse-aux-champignons-dans-une-mission-secondaire.htm</link>
+    <itunes:summary><![CDATA[Après nous avoir présenté une mission principale en live dans Gaming Time, MrDeriv s&#039;attaque à une mission secondaire de Borderlands 3. Au menu : comb...]]></itunes:summary>
+    <description><![CDATA[Après nous avoir présenté une mission principale en live dans Gaming Time, MrDeriv s&#039;attaque à une mission secondaire de Borderlands 3. Au menu : comb...]]></description>
+    <pubDate>Thu, 19 Sep 2019 16:38:11 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>10:16</itunes:duration>
+    <itunes:keywords><![CDATA[Borderlands 3 : MrDeriv part à la chasse aux champignons dans une mission secondaire]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Vidéo - eFootball PES 2020 : Monaco - Marseille, la revanche !]]></title>
+    <itunes:subtitle>Kaaraj et Anagund se retrouvent sur eFootball PES 2020 pour présenter le multijoueur en un contre un...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/news/g/a/gaminglivePES_1709_Modifs-1001684-1568795203.mp4" length="10:09" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1108836/efootball-pes-2020-monaco-marseille-la-revanche.htm</guid>
+    <link>/videos/gaming-live/1108836/efootball-pes-2020-monaco-marseille-la-revanche.htm</link>
+    <itunes:summary><![CDATA[Kaaraj et Anagund se retrouvent sur eFootball PES 2020 pour présenter le multijoueur en un contre un, après la session de Panthaa et Kaaraj à deux con...]]></itunes:summary>
+    <description><![CDATA[Kaaraj et Anagund se retrouvent sur eFootball PES 2020 pour présenter le multijoueur en un contre un, après la session de Panthaa et Kaaraj à deux con...]]></description>
+    <pubDate>Wed, 18 Sep 2019 10:38:09 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>10:09</itunes:duration>
+    <itunes:keywords><![CDATA[eFootball PES 2020 : Monaco - Marseille, la revanche !]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Gears 5 : Nous affrontons la Horde à 3 en écran partagé]]></title>
+    <itunes:subtitle>Le gros jeu de cette fin d’année côté Microsoft est bien évidemment Gears 5. Le mode Horde, comme d&#039;...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/e/gears-5-pc-999309-1568382978-low.mp4" length="21:11" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1107438/gears-5-nous-affrontons-la-horde-a-3-en-ecran-partage.htm</guid>
+    <link>/videos/gaming-live/1107438/gears-5-nous-affrontons-la-horde-a-3-en-ecran-partage.htm</link>
+    <itunes:summary><![CDATA[Le gros jeu de cette fin d’année côté Microsoft est bien évidemment Gears 5. Le mode Horde, comme d&#039;autres modes du titre, est jouable jusqu&#039;à trois e...]]></itunes:summary>
+    <description><![CDATA[Le gros jeu de cette fin d’année côté Microsoft est bien évidemment Gears 5. Le mode Horde, comme d&#039;autres modes du titre, est jouable jusqu&#039;à trois e...]]></description>
+    <pubDate>Sun, 15 Sep 2019 16:42:22 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>21:11</itunes:duration>
+    <itunes:keywords><![CDATA[Gears 5 : Nous affrontons la Horde à 3 en écran partagé]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Vidéo - Greedfall : à la recherche des origines de Vasco]]></title>
+    <itunes:subtitle>Greedfall vous propose de recruter des compagnons, qui ont tous leur histoire personnelle. Et justem...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/news/g/l/glgreedfall-998287-1568291550.mp4" length="13:51" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1106500/greedfall-a-la-recherche-des-origines-de-vasco.htm</guid>
+    <link>/videos/gaming-live/1106500/greedfall-a-la-recherche-des-origines-de-vasco.htm</link>
+    <itunes:summary><![CDATA[Greedfall vous propose de recruter des compagnons, qui ont tous leur histoire personnelle. Et justement, dans ce Gaming Live, MalloDelic et Sylvain vo...]]></itunes:summary>
+    <description><![CDATA[Greedfall vous propose de recruter des compagnons, qui ont tous leur histoire personnelle. Et justement, dans ce Gaming Live, MalloDelic et Sylvain vo...]]></description>
+    <pubDate>Sat, 14 Sep 2019 15:15:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>13:51</itunes:duration>
+    <itunes:keywords><![CDATA[Greedfall : à la recherche des origines de Vasco]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Monster Hunter World : Iceborne - Capturer un Brachydios en l’envoyant dans un mur ?]]></title>
+    <itunes:subtitle>Evénement sur jeuxvideo.com : pour la première fois, un Gaming Live est tourné en ... live ! Sur l&#039;e...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/m/o/monster-hunter-world-iceborne-996597-1568123461-low.mp4" length="21:29" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1105155/monster-hunter-world-iceborne-capturer-un-brachydios-en-l-envoyant-dans-un-mur.htm</guid>
+    <link>/videos/gaming-live/1105155/monster-hunter-world-iceborne-capturer-un-brachydios-en-l-envoyant-dans-un-mur.htm</link>
+    <itunes:summary><![CDATA[Evénement sur jeuxvideo.com : pour la première fois, un Gaming Live est tourné en ... live ! Sur l&#039;extension de Monster Hunter World, Iceborne, dévelo...]]></itunes:summary>
+    <description><![CDATA[Evénement sur jeuxvideo.com : pour la première fois, un Gaming Live est tourné en ... live ! Sur l&#039;extension de Monster Hunter World, Iceborne, dévelo...]]></description>
+    <pubDate>Fri, 13 Sep 2019 13:56:08 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>21:29</itunes:duration>
+    <itunes:keywords><![CDATA[Monster Hunter World : Iceborne - Capturer un Brachydios en l’envoyant dans un mur ?]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Borderlands 3 - Résoudre un mystérieux meurtre au cœur de Meridian]]></title>
+    <itunes:subtitle>Seconde planète de Borderlands 3, Meridian est à la base une métropole contrôlée par Atlas. Mais le...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/b/o/borderlands-3-998613-1568302050-low.mp4" length="20:21" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1106923/borderlands-3-resoudre-un-mysterieux-meurtre-au-ceur-de-meridian.htm</guid>
+    <link>/videos/gaming-live/1106923/borderlands-3-resoudre-un-mysterieux-meurtre-au-ceur-de-meridian.htm</link>
+    <itunes:summary><![CDATA[Seconde planète de Borderlands 3, Meridian est à la base une métropole contrôlée par Atlas. Mais le constructeur Maliwan ne l&#039;entend pas de cette orei...]]></itunes:summary>
+    <description><![CDATA[Seconde planète de Borderlands 3, Meridian est à la base une métropole contrôlée par Atlas. Mais le constructeur Maliwan ne l&#039;entend pas de cette orei...]]></description>
+    <pubDate>Thu, 12 Sep 2019 17:58:57 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>20:21</itunes:duration>
+    <itunes:keywords><![CDATA[Borderlands 3 - Résoudre un mystérieux meurtre au cœur de Meridian]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Gears 5 : Fuite, un mode de jeu qui va vous faire courir ! ]]></title>
+    <itunes:subtitle>C&#039;est la grande nouveauté de la section multijoueur de Gears 5 : le mode Fuite oblige un groupe de t...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/e/gears-5-995723-1568015954-low.mp4" length="15:14" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1104596/gears-5-fuite-un-mode-de-jeu-qui-va-vous-faire-courir.htm</guid>
+    <link>/videos/gaming-live/1104596/gears-5-fuite-un-mode-de-jeu-qui-va-vous-faire-courir.htm</link>
+    <itunes:summary><![CDATA[C&#039;est la grande nouveauté de la section multijoueur de Gears 5 : le mode Fuite oblige un groupe de trois joueurs à courir aussi vite que possible, pou...]]></itunes:summary>
+    <description><![CDATA[C&#039;est la grande nouveauté de la section multijoueur de Gears 5 : le mode Fuite oblige un groupe de trois joueurs à courir aussi vite que possible, pou...]]></description>
+    <pubDate>Tue, 10 Sep 2019 09:00:02 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>15:14</itunes:duration>
+    <itunes:keywords><![CDATA[Gears 5 : Fuite, un mode de jeu qui va vous faire courir ! ]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Final Fantasy VIII Remastered : Tricher à l&#039;examen du SeeD dans la mission de Dollet]]></title>
+    <itunes:subtitle>Version renouvelée du huitième épisode de la saga éponyme, Final Fantasy VIII Remastered est le port...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/f/i/final-fantasy-8-remastered-992252-1567525782-low.mp4" length="18:04" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1101622/final-fantasy-viii-remastered-tricher-a-l-examen-du-seed-dans-la-mission-de-dollet.htm</guid>
+    <link>/videos/gaming-live/1101622/final-fantasy-viii-remastered-tricher-a-l-examen-du-seed-dans-la-mission-de-dollet.htm</link>
+    <itunes:summary><![CDATA[Version renouvelée du huitième épisode de la saga éponyme, Final Fantasy VIII Remastered est le portage d&#039;un titre iconique de la licence de J-RPG. Il...]]></itunes:summary>
+    <description><![CDATA[Version renouvelée du huitième épisode de la saga éponyme, Final Fantasy VIII Remastered est le portage d&#039;un titre iconique de la licence de J-RPG. Il...]]></description>
+    <pubDate>Sun, 08 Sep 2019 09:34:56 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>18:04</itunes:duration>
+    <itunes:keywords><![CDATA[Final Fantasy VIII Remastered : Tricher à l&#039;examen du SeeD dans la mission de Dollet]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Gears 5 : on part explorer les environs du Mont Kadar ]]></title>
+    <itunes:subtitle>C&#039;est la grande nouveauté de ce Gears 5 : le jeu repose sur deux grandes zones ouvertes, à partir de...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/g/e/gears-5-994098-1567687910-low.mp4" length="19:45" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1103309/gears-5-on-part-explorer-les-environs-du-mont-kadar.htm</guid>
+    <link>/videos/gaming-live/1103309/gears-5-on-part-explorer-les-environs-du-mont-kadar.htm</link>
+    <itunes:summary><![CDATA[C&#039;est la grande nouveauté de ce Gears 5 : le jeu repose sur deux grandes zones ouvertes, à partir desquelles il est possible de trouver missions princ...]]></itunes:summary>
+    <description><![CDATA[C&#039;est la grande nouveauté de ce Gears 5 : le jeu repose sur deux grandes zones ouvertes, à partir desquelles il est possible de trouver missions princ...]]></description>
+    <pubDate>Thu, 05 Sep 2019 15:32:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>19:45</itunes:duration>
+    <itunes:keywords><![CDATA[Gears 5 : on part explorer les environs du Mont Kadar ]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Monster Hunter World : Iceborne - Un Barioth bien énervé !]]></title>
+    <itunes:subtitle>En route pour le Givre Éternel pour une chasse sportive au Barioth, un monstre qui a décidément une...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/m/o/monster-hunter-world-iceborne-993024-1567667874-low.mp4" length="39:28" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1102364/monster-hunter-world-iceborne-un-barioth-bien-enerve.htm</guid>
+    <link>/videos/gaming-live/1102364/monster-hunter-world-iceborne-un-barioth-bien-enerve.htm</link>
+    <itunes:summary><![CDATA[En route pour le Givre Éternel pour une chasse sportive au Barioth, un monstre qui a décidément une dent contre nous. L&#039;occasion de présenter certaine...]]></itunes:summary>
+    <description><![CDATA[En route pour le Givre Éternel pour une chasse sportive au Barioth, un monstre qui a décidément une dent contre nous. L&#039;occasion de présenter certaine...]]></description>
+    <pubDate>Thu, 05 Sep 2019 11:13:05 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>39:28</itunes:duration>
+    <itunes:keywords><![CDATA[Monster Hunter World : Iceborne - Un Barioth bien énervé !]]></itunes:keywords>
+</item>
+<item>
+    <title><![CDATA[Gaming Live - Control : Élucider le mystère du miroir]]></title>
+    <itunes:subtitle>Studio finlandais à l&#039;origine des sagas Max Payne et Alan Wake, Remedy Entertainment collabore avec...</itunes:subtitle>
+    <itunes:author>JeuxVideo.com</itunes:author>
+    <enclosure url="http://video.jeuxvideo.com/gaming-live/c/o/control-987302-1566908280-low.mp4" length="20:33" type="video/mp4"></enclosure>
+    <guid>/videos/gaming-live/1097311/control-elucider-le-mystere-du-miroir.htm</guid>
+    <link>/videos/gaming-live/1097311/control-elucider-le-mystere-du-miroir.htm</link>
+    <itunes:summary><![CDATA[Studio finlandais à l&#039;origine des sagas Max Payne et Alan Wake, Remedy Entertainment collabore avec l&#039;éditeur 505 Games sur Control. Ce TPS surnaturel...]]></itunes:summary>
+    <description><![CDATA[Studio finlandais à l&#039;origine des sagas Max Payne et Alan Wake, Remedy Entertainment collabore avec l&#039;éditeur 505 Games sur Control. Ce TPS surnaturel...]]></description>
+    <pubDate>Wed, 28 Aug 2019 16:00:01 +0100</pubDate>
+    <category>Jeux Video</category>
+    <itunes:duration>20:33</itunes:duration>
+    <itunes:keywords><![CDATA[Control : Élucider le mystère du miroir]]></itunes:keywords>
+</item>
+</channel>
+</rss>

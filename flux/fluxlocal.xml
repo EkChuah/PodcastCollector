@@ -1,0 +1,176 @@
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+    <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA=IwAR2yEC7khLNaRb7ZkQWdbhtXheNRjTRMGdlH78CfBlSa3MZOP2qfesRq78Y"/>
+    <id>yt:channel:UCHnyfMqiRRG1u-2MsSQLbXA</id>
+    <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+    <title>Veritasium</title>
+    <link rel="alternate" href="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+    <author>
+        <name>Veritasium</name>
+        <uri>
+            https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+        </uri>
+    </author>
+    <published>2010-07-21T07:18:02+00:00</published>
+    <entry>
+        <id>yt:video:QRt7LjqJ45k</id>
+        <yt:videoId>QRt7LjqJ45k</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>How to Slow Aging (and even reverse it)</title>
+        <link rel="alternate" href="videolocal/video1.mp4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-12-14T15:00:05+00:00</published>
+        <updated>2019-12-15T07:30:19+00:00</updated>
+        <media:group>
+            <media:title>How to Slow Aging (and even reverse it)</media:title>
+            <media:content url="https://www.youtube.com/v/QRt7LjqJ45k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i2.ytimg.com/vi/QRt7LjqJ45k/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Scientists like Prof Sinclair have evidence of speeding up, slowing, and even reversing aging. Thanks to LastPass for sponsoring this video. Click here to start using LastPass: https://ve42.co/VeLP What causes aging? According to Professor David Sinclair, it is a loss of information in our epigenome, the system of proteins like histones and chemical markers like methylation that turn on and off genes. Epigenetics allow different cell types to perform their specific functions - they are what differentiate a brain cell from a skin cell. Our DNA is constantly getting broken, by cosmic rays, UV radiation, free radicals, x-rays and regular cell division etc. When our cells repair that damage, the epigenome is not perfectly reset. And hence over time, noise accumulates in our epigenome. Our cells no longer perform their functions well. To counter this decline, we can activate the body's own defenses against aging by stressing the body. Eat less, eat less protein, engage in intense exercise, experience uncomfortable cold. When the body senses existential threats it triggers longevity genes, which attempt to maintain the body to ensure its survival until good times return. This may be the evolutionary legacy of early bacteria, which established these two modes of living (repair and protect vs grow and reproduce). Scientists are uncovering ways to mimic stresses on the body without the discomfort of fasting. Molecules like NMN also trigger sirtuins to monitor and repair the epigenome. This may slow aging. Reversing aging requires an epigenetic reset, which may be possible using Yamanaka factors. These four factors can revert an adult cell into a pluripotent stem cell. Prof. Sinclair used three of the four factors to reverse aging in the retinal cells of old mice. He found they could see again after the treatment. Special thanks to: Professor David Sinclair, check out his book "Lifespan: Why We Age and Why We Don't Have To" Assistant Professor David Gold Noemie Sierra (for polyp images) Genepool Productions for telomere animations from Immortal: https://ve42.co/immortal Epigenetics animations (DNA, histones, methylation etc) courtesy of: http://wehi.tv Animation: Etsuko Uno Art and Technical Direction: Drew Berry Sound Design: Francois Tetaz and Emma Bortignon Scientific Consultation: Marnie Blewitt Courtesy of Walter and Eliza Hall Institute of Medical Research Filming, editing and animation by Jonny Hyman and Derek Muller Music from https://epidemicsound.com "Clearer Views" "Innovations" "A Sound Foundation" "Seaweed" Additional music by Kevin MacLeod from https://incompetech.com "Marty Gots a Plan"
+            </media:description>
+            <media:community>
+                <media:starRating count="65349" average="4.96" min="1" max="5"/>
+                <media:statistics views="992607"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:fDek6cYijxI</id>
+        <yt:videoId>fDek6cYijxI</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>The Science Behind the Butterfly Effect</title>
+        <link rel="alternate" href="videolocal/video2.mp4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-12-06T19:06:59+00:00</published>
+        <updated>2019-12-16T03:22:28+00:00</updated>
+        <media:group>
+            <media:title>The Science Behind the Butterfly Effect</media:title>
+            <media:content url="https://www.youtube.com/v/fDek6cYijxI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/fDek6cYijxI/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Chaos theory means deterministic systems can be unpredictable. Thanks to LastPass for sponsoring this video. Click here to start using LastPass: https://ve42.co/VeLP Animations by Prof. Robert Ghrist: https://ve42.co/Ghrist Want to know more about chaos theory and non-linear dynamical systems? Check out: https://ve42.co/chaos-math Butterfly footage courtesy of Phil Torres and The Jungle Diaries: https://ve42.co/monarch Solar system, 3-body and printout animations by Jonny Hyman Some animations made with Universe Sandbox: https://universesandbox.com/ Special thanks to Prof. Mason Porter at UCLA who I interviewed for this video. I have long wanted to make a video about chaos, ever since reading James Gleick's fantastic book, Chaos. I hope this video gives an idea of phase space - a picture of dynamical systems in which each point completely represents the state of the system. For a pendulum, phase space is only 2-dimensional and you can get orbits (in the case of an undamped pendulum) or an inward spiral (in the case of a pendulum with friction). For the Lorenz equations we need three dimensions to show the phase space. The attractor you find for these equations is said to be strange and chaotic because there is no loop, only infinite curves that never intersect. This explains why the motion is so unpredictable - two different initial conditions that are very close together can end up arbitrarily far apart. Music from https://epidemicsound.com "The Longest Rest" "A Sound Foundation" "Seaweed"
+            </media:description>
+            <media:community>
+                <media:starRating count="65573" average="4.96" min="1" max="5"/>
+                <media:statistics views="1127040"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:K-Fc08X56R0</id>
+        <yt:videoId>K-Fc08X56R0</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>3 Perplexing Physics Problems</title>
+        <link rel="alternate" href="videolocal/video3.mp4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-11-20T20:54:16+00:00</published>
+        <updated>2019-11-27T18:02:55+00:00</updated>
+        <media:group>
+            <media:title>3 Perplexing Physics Problems</media:title>
+            <media:content url="https://www.youtube.com/v/K-Fc08X56R0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/K-Fc08X56R0/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Why does shaken soda explode? Does ice melt first in fresh or salt water? Thank you Squarespace for sponsoring this video. Go to https://squarespace.com to save 10% off your first purchase of a website or domain using code: VERITASIUM This video features experiments that have been shown to me by science teachers over the years. Does ice melt fast in salt water or fresh water was an experiment introduced to me at the Utah Science Teachers' conference. The ring of metal over a chain demo came from a teachers event in Florida. The idea shaking a carbonated drink increases pressure came from an email. Special thanks to Petr Lebedev for building the pressure gauge. Links to literature are below: Victims of the pop bottle, by Ted Willhoft. New Scientist, 21 August 1986 p.28 Carbonation speculation The Physics Teacher 30, 173 (1992); https://doi.org/10.1119/1.2343501 Agitation solution The Physics Teacher 30, 325 (1992); https://doi.org/10.1119/1.2343556 Filmed by Cristian Carretero, Jordan Schnabel, Jonny Hyman, and Raquel Nuno Music from https://epidemicsound.com "Seaweed" "Quietly Tense" "Mind Shift" "Observations"
+            </media:description>
+            <media:community>
+                <media:starRating count="118953" average="4.93" min="1" max="5"/>
+                <media:statistics views="2406720"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:GcdB5bFwio4</id>
+        <yt:videoId>GcdB5bFwio4</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>I Waterproofed Myself With Aerogel!</title>
+        <link rel="alternate" href="videolocal/video4.mp4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-06-21T20:59:32+00:00</published>
+        <updated>2019-12-08T01:16:35+00:00</updated>
+        <media:group>
+            <media:title>I Waterproofed Myself With Aerogel!</media:title>
+            <media:content url="https://www.youtube.com/v/GcdB5bFwio4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i4.ytimg.com/vi/GcdB5bFwio4/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                Aerogel has extraordinary properties but it can be tough to work with. This video looks at modifying aerogels to take advantage of their unique characteristics. Subscribe to Veritasium: https://ve42.co/sub Huge thanks to Dr. Stephen Steiner and the crew at Aerogel Technologies. To find out more or buy your own aerogel sample, check out: http://www.aerogeltechnologies.com/ Thanks to Dr. Steven Jones and Dr. Mihail Petkov at NASA's Jet Propulsion Laboratory And thanks to FLIR for loaning us the awesome high definition thermal camera. The footage is amazing! https://www.flir.com Aerogel’s extraordinary properties are due in large part to its structure. Aerogel is a solid but on the nanoscale it has a mesh or sponge-like structure. The struts of this structure are nanoscale, as are the pores at around 20nm across. This makes silica aerogel incredibly light (it was once the lightest solid but has now been superseded by graphene aerogel), transparent and adsorbent. An ice-cube sized piece of aerogel has an internal surface area roughly equal to half a football field. Aerogel is used in high end museum cases to regulate humidity. Plus it helps maintain the vacuum on the Mars Insight seismometers - it adsorbs moisture and other outgassed volatiles that come from the spacecraft itself. Proposed uses include as a physical insecticide by ‘drying out insects’ reducing the need for chemical and toxic pesticides. Special thanks to all my Patreon supporters especially those who contributed feedback to an earlier draft of this video: a human, Albert Jachowicz-Brzeziński, Alfred Wallace, Arjun Chakroborty, Brent Stewart, Chris Vargas, Chuck Lauer Vose, Clip Tree, Coale Shifflett, Colin Bellmore, DALE HORNE, Eric Velazquez, Fedor Indutny, Fran Rodriguez, James Wong, Jasper Xin, Joar Wandborg, Johnny, Jorge Angel Sandoval, June Kang, Kevin Beavers, Kishore Tipirneni, Levan Ferr, Listen Money Matters, Manuel Zürcher, Mark Bevilacqua, Mathias Göransson, Michael Bradley Wirz, Michael Krugman, Mohammed Al Sahaf, Nicholas Hastings, OddJosh, Patrick Čalija, Peter Tajti, Philipp Volgger, Roberto Rezende, Robin DeBank, Ron Neal, Stan Presolski, Swante Scholz, Tiago Bruno, Tige Thorman, Warrior8252 Filmed by Paul Gramaglia Thumbnail by Ignat Berbeci Animations by Catherine Chooljian Music from https://epidemicsound.com “Tonic Zone” “Betelgeuse” “Insidious Mice” “Seaweed” “It’s not that serious” “Platin00m - Sum It” This is an educational, scientific video.
+            </media:description>
+            <media:community>
+                <media:starRating count="318803" average="4.91" min="1" max="5"/>
+                <media:statistics views="13137784"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:BZbChKzedEk</id>
+        <yt:videoId>BZbChKzedEk</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>Can You Swim in Shade Balls?</title>
+        <link rel="alternate" href="videolocal/video5.mp4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-06-13T16:42:25+00:00</published>
+        <updated>2019-12-12T02:27:13+00:00</updated>
+        <media:group>
+            <media:title>Can You Swim in Shade Balls?</media:title>
+            <media:content url="https://www.youtube.com/v/BZbChKzedEk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/BZbChKzedEk/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                I bought 10,000 shade balls and tried to swim in them. They appear to act like a non-Newtonian fluid: rigid under high shear stress, but they flow like a liquid under low shear. Get a signed shade ball by supporting Veritasium: https://ve42.co/patreon Receiving a shade ball: 1. Support Veritasium on any Patreon tier and enter your address https://ve42.co/patreon 2. In about a month I will send out signed shade balls 3. I will cover all shipping costs but if things get really crazy I will prioritize existing Patreon supporters and higher tiers My sense was that swimming in shade balls would be difficult but still doable. This was roughly true for the single layer of shade balls. The shade balls slide past each other so they act like a liquid, albeit a viscous one owing to their significant inertia. It's much more intense exercise and it's also annoying to be bombarded with shade balls on all sides of your body, particularly your head. With multi-layer shade balls (as exists on much of LA reservoir) things get significantly more difficult. The balls bunch together and when you try to move through them quickly, they become more rigid, providing significant resistance to motion. This has the benefit that you can lie on them and as long as they stay trapped under you, you can float on them. But a little bit of motion causes them to move around and you sink through quickly. Huge thanks to: Jordan Schnabel and Cristian Carretero for filming and swimming and providing lifeguard services. Raquel Nuno for filming and putting up with me. Special thanks to Patreon supporters: Donal Botkin, Michael Krugman, Ron Neal, Stan Presolski, Terrance Shepherd, Penward Rhyme and everyone who provided feedback on an early draft of this video. Music from https://epidemicsound.com "Dubstep Mammoth 2" "Finally Here (Instrumental)" "The Last Arrival" "Sundown Love (Instrumental)"
+            </media:description>
+            <media:community>
+                <media:starRating count="291248" average="4.81" min="1" max="5"/>
+                <media:statistics views="13915865"/>
+            </media:community>
+        </media:group>
+    </entry>
+    <entry>
+        <id>yt:video:BtCNBh0AsWM</id>
+        <yt:videoId>BtCNBh0AsWM</yt:videoId>
+        <yt:channelId>UCHnyfMqiRRG1u-2MsSQLbXA</yt:channelId>
+        <title>How Cod Saved the Vikings</title>
+        <link rel="alternate" href="videolocal/video6.mp4"/>
+        <author>
+            <name>Veritasium</name>
+            <uri>
+                https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
+            </uri>
+        </author>
+        <published>2019-07-07T16:09:31+00:00</published>
+        <updated>2019-12-15T18:53:30+00:00</updated>
+        <media:group>
+            <media:title>How Cod Saved the Vikings</media:title>
+            <media:content url="https://www.youtube.com/v/BtCNBh0AsWM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+            <media:thumbnail url="https://i3.ytimg.com/vi/BtCNBh0AsWM/hqdefault.jpg" width="480" height="360"/>
+            <media:description>
+                The Vikings suffered many hardships living in the north of Europe: long, cold winters and importantly a lack of sunlight. Luckily, they had cod. Check out Vitamania: https://ve42.co/cod When making a video about vitamins I thought the story would mainly be about supplement pills, whether we should or shouldn't take them and how they're made. But what I found out is vitamins have a remarkable story that affects many more aspects of our lives. For example the Vikings needed a source of vitamin D to last the dark winter months and for their children to develop strong, healthy bones, avoiding rickets. Special thanks to Patreon supporters: a human, Albert Jachowicz-Brzeziński, Alfred Wallace, Arjun Chakroborty, Brent Stewart, Chris Vargas, Chuck Lauer Vose, Clip Tree, Coale Shifflett, Colin Bellmore, DALE HORNE, Eric Velazquez, Fedor Indutny, Fran Rodriguez, James Wong, Jasper Xin, Joar Wandborg, Johnny, Jorge Angel Sandoval, June Kang, Kevin Beavers, Kishore Tipirneni, Levan Ferr, Listen Money Matters, Manuel Zürcher, Mark Bevilacqua, Mathias Göransson, Michael Bradley Wirz, Michael Krugman, Mohammed Al Sahaf, Nicholas Hastings, OddJosh, Patrick Čalija, Peter Tajti, Philipp Volgger, Roberto Rezende, Robin DeBank, Ron Neal, Stan Presolski, Swante Scholz, Tiago Bruno, Tige Thorman, Warrior8252 This video was filmed by Harry Panagiotidis Researched and written by Derek Muller and Jonny Hyman Editing, animation and music by Jonny Hyman Cod liver oil animation by Iván Tello Vitamania was written, directed and produced by Sonya Pemberton
+            </media:description>
+            <media:community>
+                <media:starRating count="58821" average="4.95" min="1" max="5"/>
+                <media:statistics views="1031811"/>
+            </media:community>
+        </media:group>
+    </entry>
+</feed>
